@@ -5104,5 +5104,35 @@
 		"storageType": 0,
 		"url": "https://jd-s3.akamaized.net/public/map/SavageLove/pc/SavageLove_MAIN_SCENE_PC.zip/fbcc59213d83228ebdcd4b3622b96834.zip",
 		"version": 1  
+  },
+  "GiveThatWolf_mapContent": {
+    "md5": "5d6221a35e2ecf466324118a4f1a7f0c",
+    "storageType": 0,
+    "url": "https://jsutdancerubin.hb.bizmrg.com/sku-packages/givethatwolf_main_scene_pc_1.zip",
+    "version": 1
+  },
+  "CantStopTheFeeling_mapContent": {
+    "md5": "58c2009e2c6776fe0bc69b4776b52ab5",
+    "storageType": 0,
+    "url": "https://cdn.glitch.me/f0e15141-9234-48c8-8bd7-1949686e85c3/cantstopthefeeling_main_scene_pc_v4.zip",
+    "version": 1
+  },
+  "MONTERO_mapContent": {
+    "md5": "a8068d71f61ba4bdef34ecb57c284247",
+    "storageType": 0,
+    "url": "https://cdn.glitch.me/6f5c4074-2f12-4ac7-b1f0-18c3f4bbeb57/MONTERO_MAIN_SCENE_PC.zip",
+    "version": 2
+  },
+  "KissMeMore_mapContent": {
+    "md5": "a0712f6d79da23c0fefcaff6fb5ccf01",
+    "storageType": 0,
+    "url": "https://cdn.glitch.me/f0e15141-9234-48c8-8bd7-1949686e85c3/KissMeMore_Main_Scene_PC.zip",
+    "version": 1
+  },
+  "Daisy_mapContent": {
+    "md5": "aa4cc944f0c6d0ce1affd0dadb98165d",
+    "storageType": 0,
+    "url": "https://cdn.glitch.me/f0e15141-9234-48c8-8bd7-1949686e85c3/Daisy_Main_Scene_PC.zip",
+    "version": 1
   }
 }
