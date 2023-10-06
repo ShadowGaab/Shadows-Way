@@ -28,14 +28,4 @@ louis.xoxo | files for _that_ type of songs
 
 Mat | assets
 
-
-
-Obrigado pelo suporte de todos
-
-@Shira | Por testar
-
-@JackLSummer15 | Pelo código base
-
-@RickLikeJD | Eu deveria mesmo falar?
-
 if ANY credits are missing, you know how to contact me.
