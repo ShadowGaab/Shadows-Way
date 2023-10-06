@@ -28,4 +28,6 @@ louis.xoxo | files for _that_ type of songs
 
 Mat | assets
 
+Jim | assets
+
 if ANY credits are missing, you know how to contact me.
