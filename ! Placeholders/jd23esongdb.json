@@ -52,15 +52,15 @@
   "SweetDreams": {
     "artist": "Eurythmics",
     "assets": {
-      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
-      "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/7e/Placeholder_coach_1_big.png",
-      "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/70/Placeholder_song.jpg",
-      "cover_1024ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/70/Placeholder_song.jpg",
-      "cover_smallImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/70/Placeholder_song.jpg",
+      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/SweetDreams_banner_bkg",
+      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_coach_1.png",
+      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
-      "expandCoachImageUrl": "https://static.wikia.nocookie.net/justdance/images/b/b6/Blameitalt_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/7e/Placeholder_coach_1_big.png",
-      "phoneCoverImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/70/Placeholder_song.jpg",
+      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_coach_1.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_generic.png",
       "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22896,45744,68592,91439,114287,137183,160031,182879,205727,228575,251471,274319,297167,320015,342863,365759,388607,411455,434303,457151,479999,502895,525743,548591,571438,594286,617182,640030,662878,685726,708574,731470,754318,777166,800014,822862,845758,868606,891454,914302,937150,959998,982894,1005742,1028589,1051437,1074285,1097181,1120029,1142877,1165725,1188573,1211469,1234317,1257165,1280013,1302861,1325757,1348605,1371453,1394301,1417149,1439997],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":447,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sweetdreams/sweetdreams_AudioPreview.ogg\"}",
