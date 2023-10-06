@@ -5,16 +5,37 @@ Shadow's Way is a Private *DU server, this is only on Github because of Replit's
 
 ## Credits: 
 WodsonKun | assets and other stuff
+
 DieguinDG | assets and gave the #DU code
+
 feh | assets and other stuff
+
 RickL | assets and other stuff
+
 AvekorageMashups / AvekoragePerson | assets 
+
 Luis5779 | assets
+
 Justi ̷n̷ . | assets and other stuff
+
 Todoroki | Connect owner, so he needs to be here
+
 Just Dance Connect Crew | self-explanatory
+
 Floupado | assets
+
 louis.xoxo | files for _that_ type of songs
+
 Mat | assets
+
+
+
+Obrigado pelo suporte de todos
+
+@Shira | Por testar
+
+@JackLSummer15 | Pelo código base
+
+@RickLikeJD | Eu deveria mesmo falar?
 
 if ANY credits are missing, you know how to contact me.
