@@ -2,15 +2,15 @@
   "LoveAgain": {
     "artist": "Dua Lipa",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151567435938410587/LoveAgain_bannerbkg.png",
-      "coach1ImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151565242724270240/LoveAgain_Coach_1.png",
-      "coverImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151565243189825536/loveagain_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151565243189825536/loveagain_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151565243189825536/loveagain_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/LoveAgain_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_coach_1.png",
+      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
-      "expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151565243600879706/LoveAgain_Cover_AlbumCoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151565242724270240/LoveAgain_Coach_1.png",
-      "phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151565243189825536/loveagain_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_coach_1.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151567435938410587/LoveAgain_bannerbkg.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23808,47664,74112,98304,122448,146592,170736,195216,219744,244224,268752,293328,317856,342432,367008,391488,415920,440399,464831,489215,513599,537983,562319,586751,611183,635615,660047,684575,709055,733583,758063,782351,806639,830927,855215,879887,904511,929135,953759,978191,1002623,1027103,1051535,1076111,1100639,1125215,1149790,1174174,1198558,1222990,1247374,1271950,1296478,1321054,1345582,1370014,1394494,1418926],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2],\"startBeat\":0,\"endBeat\":542,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":0,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/loveagain/loveagain_AudioPreview.ogg\"}",
