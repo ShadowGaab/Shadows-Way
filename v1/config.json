@@ -324,7 +324,7 @@
       },
       {
         "name": "spaces/entities",
-         "url": "http://{env}epratestesok.araugolo997.repl.co/{version}/spaces/{spaceId}/entities",
+         "url": "http://{env}shadows-way.shadowgaab.repl.co/{version}/spaces/{spaceId}/entities",
         "version": 2
       },
       {

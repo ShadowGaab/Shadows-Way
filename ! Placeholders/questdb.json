@@ -1,0 +1,39 @@
+just a heads up!
+if a quest ID is "1043" + a number
+it means "JDC" (Just Dance Custom)
+J (Just / 10) D (Dance / 4) C (Custom / 3)
+!! IT IS THE JDU'S CUSTOM QUEST ID, DO **NOT** CHANGE THIS !!
+example: "The Toxic Ride" is quest #1, so it's id is "10431"
+
+
+{
+  "__class": "OnlineQuestDb",
+  "quests": [
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "",
+        "coverImageURL": "",
+        "logoImageURL": "",
+        "logoShadedImageURL": ""
+      },
+      "id": "1",
+      "locked": 0,
+      "playlist": ["", "", ""],
+      "title": "Quest1"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "",
+        "coverImageURL": "",
+        "logoImageURL": "",
+        "logoShadedImageURL": ""
+      },
+      "id": "2",
+      "locked": 0,
+      "playlist": ["", "", ""],
+      "title": "Quest2"
+    }
+  ]
+}

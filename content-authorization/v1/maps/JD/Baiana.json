@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/Baiana/Baiana_ULTRA.webm": "https://cdn.glitch.me/d46bed0b-c1c3-44e9-a230-267375688075/Baiana_ULTRA.webm",
+    "jmcs://jd-contents/Baiana/Baiana_MID.webm": "https://cdn.glitch.me/d46bed0b-c1c3-44e9-a230-267375688075/Baiana_MID.webm",
+    "jmcs://jd-contents/Baiana/Baiana_LOW.webm": "https://cdn.glitch.me/d46bed0b-c1c3-44e9-a230-267375688075/Baiana_LOW.webm",
+    "jmcs://jd-contents/Baiana/Baiana_HIGH.webm": "https://cdn.glitch.me/d46bed0b-c1c3-44e9-a230-267375688075/Baiana_HIGH.webm",
+    "jmcs://jd-contents/Baiana/Baiana.ogg": "https://cdn.glitch.global/d46bed0b-c1c3-44e9-a230-267375688075/Baiana.ogg"
+  }
+}

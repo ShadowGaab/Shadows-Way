@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/DareToLive/DareToLive_ULTRA.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DareToLive_ULTRA.webm",
+    "jmcs://jd-contents/DareToLive/DareToLive_MID.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DareToLive_MID.webm",
+    "jmcs://jd-contents/DareToLive/DareToLive_LOW.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DareToLive_LOW.webm",
+    "jmcs://jd-contents/DareToLive/DareToLive_HIGH.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DareToLive_HIGH.webm",
+    "jmcs://jd-contents/DareToLive/DareToLive.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DareToLive.ogg"
+  }
+}

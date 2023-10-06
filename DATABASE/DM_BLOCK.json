@@ -13,7 +13,7 @@
     }
   },
   "JDVersion": {
-    "Override": { "1234": "Kids", "4884": "ABBA" , "20203": "China"}
+    "Override": { "1234": "Kids", "4884": "ABBA" }
   },
   "Quest": {
     "minimumScore": { "value": 1000 },

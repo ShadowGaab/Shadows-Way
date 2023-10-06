@@ -262,34 +262,6 @@
     },
     {
       "__class": "Category",
-      "title": "Just Dance Connect A-E",
-      "act": "ui_carousel",
-      "isc": "grp_row",
-      "items": []
-    },
-    {
-      "__class": "Category",
-      "title": "Just Dance Connect F-J",
-      "act": "ui_carousel",
-      "isc": "grp_row",
-      "items": []
-    },
-    {
-      "__class": "Category",
-      "title": "Just Dance Connect K-R",
-      "act": "ui_carousel",
-      "isc": "grp_row",
-      "items": []
-    },
-    {
-      "__class": "Category",
-      "title": "Just Dance Connect S-Z",
-      "act": "ui_carousel",
-      "isc": "grp_row",
-      "items": []
-    },
-    {
-      "__class": "Category",
       "title": "Kids",
       "act": "ui_carousel",
       "isc": "grp_row",

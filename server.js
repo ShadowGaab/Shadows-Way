@@ -29,7 +29,7 @@ const RoomPC = require("./DATABASE/wdf/jd2017pc_room.json");
 const Time = require("./DATABASE/server-time.json");
 const Subs = require("./V3/users/0/subs.json");
 const Avatars = require("./DATABASE/avatars.json");
-var room = "PCJD2017";
+var room = "MainJD2017";
 var prodwsurl = "https://prod.just-dance.com";
 var bosses = require("./DATABASE/wdf/v1/ccu.json");
 var ccu = require("./DATABASE/wdf/bosses.json");
@@ -90,7 +90,8 @@ var jdconnect = {
             "AlexPokeguy4",
             "StevenSBJD1702",
             "justAJdance",
-            "itayblanka"
+            "itayblanka",
+            "GoldHGSS"
         ],
 
         requestcheck: function (request) {
@@ -176,13 +177,13 @@ var jdconnect = {
 				}
 				
 				// Non-Personalized Playlists
-				if (carousel.title == "[icon:PLAYLIST] Easy Peasy Party") {
+				if (carousel.title == "BLOCKED") {
 					jdconnect.interactiveconfig.playlists.partyplaylist.forEach(function(song) {
 						var obj = JSON.parse('{"__class":"Item","isc":"grp_cover","act":"ui_component_base","components":[{"__class":"JD_CarouselContentComponent_Song","mapName":"' + song + '"}],"actionList":"partyMap"}');
 						if (jdconnect.Carousel.ifsongpublic(song.mapName) == true) { carousel.items.push(obj) }
 					})
 				}
-				if (carousel.title == "[icon:PLAYLIST] Top 20 Most Played Songs") {
+				if (carousel.title == "BLOCKED #2") {
 					jdconnect.interactiveconfig.playlists.top20playlist.forEach(function(song) {
 						var obj = JSON.parse('{"__class":"Item","isc":"grp_cover","act":"ui_component_base","components":[{"__class":"JD_CarouselContentComponent_Song","mapName":"' + song + '"}],"actionList":"partyMap"}');
 						if (jdconnect.Carousel.ifsongpublic(song.mapName) == true) { carousel.items.push(obj) }
@@ -1657,7 +1658,7 @@ app.get("/wdf/v1/api/rooms", (req, res) => {
 
 app.post("/wdf/v1/assign-room", (req, res) => {
     res.send(
-        '{ "room": "PCJD2017" }');
+        '{ "room": "JD2020" }');
 });
 
 app.post("/wdf/v1/rooms/" + room + "/session", (req, res) => {

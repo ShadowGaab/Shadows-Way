@@ -44,6 +44,21 @@
       "dancing from [var:COUNTRY]": "dansen van [var:COUNTRY]",
       "Tournament": "Tournament",
       "scored during the song.": "scoorden tijdens het nummer."
+    },
+    "pt": {
+      "SEARCH": "PESQUISAR",
+      "Previous Search": "Pesquisa anterior",
+      "Dance": "Dançar",
+      "Add to favorites": "Adicionar aos favoritos",
+      "Leaderboard": "Placar de Líderes",
+      "Credits": "Créditos",
+      "You are in the Top [var:RANK]!": "Você está no Top [var:RANK]!",
+      "is leading the tournament": "está liderando o torneio",
+      "Next:":"Próximo:",
+      "[var:NB_PLAYERS] player(s)": "[var:NB_PLAYERS] jogador(es)",
+      "dancing from [var:COUNTRY]": "dançando de [var:COUNTRY]",
+      "Tournament": "Torneio",
+      "scored during the song.": "NÃO TEM SUPORTE DE WDF"
     }
   }
 }

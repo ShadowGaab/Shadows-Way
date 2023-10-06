@@ -1,0 +1,98 @@
+        }, {
+            "__class": "Category",
+            "title": "new hair, new tee, NewJeans do you see?",
+            "act": "ui_carousel",
+            "isc": "grp_row",
+            "items": [{
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "REPLACEME"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "REPLACEME"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "REPLACEME"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "REPLACEME"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "SweetEscape"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "REPLACEME"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "REPLACEME"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "REPLACEME"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_shuffle",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Shuffle"
+                        }
+                    ],
+                    "endPos": 16,
+                    "actionList": "NonStop"
+                }
+            ]
+        }, {

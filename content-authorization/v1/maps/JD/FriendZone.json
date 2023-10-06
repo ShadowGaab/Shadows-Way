@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300000,
+    "changelist": 300,
+    "urls": {
+        "jmcs://jd-contents/FriendZone/FriendZone_ULTRA.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/FriendZone_ULTRA.webm",
+        "jmcs://jd-contents/FriendZone/FriendZone_HIGH.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/FriendZone_HIGH.webm",
+        "jmcs://jd-contents/FriendZone/FriendZone_MID.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/FriendZone_MID.webm",
+        "jmcs://jd-contents/FriendZone/FriendZone_LOW.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/FriendZone_LOW.webm",
+        "jmcs://jd-contents/FriendZone/FriendZone.ogg": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/FriendZone.ogg"
+    }
+}

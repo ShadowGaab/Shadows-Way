@@ -1,0 +1,251 @@
+  },
+  "SwitchHandyman": {
+    "artist": "Just Vibes",
+    "assets": {
+      "banner_bkgImageUrl": "",
+      "coach1ImageUrl": "",
+      "coverImageUrl": "",
+      "cover_1024ImageUrl": "",
+      "cover_smallImageUrl": "",
+      "expandBkgImageUrl": "",
+      "expandCoachImageUrl": "",
+      "phoneCoach1ImageUrl": "",
+      "phoneCoverImageUrl": "",
+      "map_bkgImageUrl": ""
+    },
+    "audioPreviewData": "",
+    "coachCount": 1,
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "customTypeNameId": 0,
+    "difficulty": 1,
+    "doubleScoringType": -1,
+    "jdmAttributes": [],
+    "lyricsColor": "FF0000FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 0,
+    "mapName": "SwitchHandyman",
+    "mode": 6,
+    "originalJDVersion": 2018,
+    "packages": {
+      "mapContent": "SwitchHandyman_mapContent"
+    },
+    "parentMapName": "SwitchHandyman",
+    "skuIds": ["jdcmos-ww-all"],
+    "songColors": {
+      "songColor_1A": "",
+      "songColor_1B": "",
+      "songColor_2A": "",
+      "songColor_2B": ""
+    },
+    "status": 3,
+    "sweatDifficulty": 1,
+    "tags": ["Main"],
+    "title": "Better Call The Handyman",
+    "urls": {
+      "jmcs://jd-contents/SwitchHandyman/SwitchHandyman_AudioPreview.ogg": ""
+    },
+    "searchTags": [],
+    "searchTagsLocIds": [],
+    "serverChangelist": 0
+  },
+  "SwitchMariachi": {
+    "artist": "Just Vibes",
+    "assets": {
+      "banner_bkgImageUrl": "",
+      "coach1ImageUrl": "",
+      "coverImageUrl": "",
+      "cover_1024ImageUrl": "",
+      "cover_smallImageUrl": "",
+      "expandBkgImageUrl": "",
+      "expandCoachImageUrl": "",
+      "phoneCoach1ImageUrl": "",
+      "phoneCoverImageUrl": "",
+      "map_bkgImageUrl": ""
+    },
+    "audioPreviewData": "",
+    "coachCount": 1,
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "customTypeNameId": 0,
+    "difficulty": 1,
+    "doubleScoringType": -1,
+    "jdmAttributes": [],
+    "lyricsColor": "FF0000FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 0,
+    "mapName": "SwitchMariachi",
+    "mode": 6,
+    "originalJDVersion": 2018,
+    "packages": {
+      "mapContent": "SwitchMariachi_mapContent"
+    },
+    "parentMapName": "SwitchMariachi",
+    "skuIds": ["jdcmos-ww-all"],
+    "songColors": {
+      "songColor_1A": "",
+      "songColor_1B": "",
+      "songColor_2A": "",
+      "songColor_2B": ""
+    },
+    "status": 3,
+    "sweatDifficulty": 1,
+    "tags": ["Main"],
+    "title": "El Sabor Del Ritmo",
+    "urls": {
+      "jmcs://jd-contents/SwitchMariachi/SwitchMariachi_AudioPreview.ogg": ""
+    },
+    "searchTags": [],
+    "searchTagsLocIds": [],
+    "serverChangelist": 0
+  },
+  "SwitchChef": {
+    "artist": "Just Vibes",
+    "assets": {
+      "banner_bkgImageUrl": "",
+      "coach1ImageUrl": "",
+      "coverImageUrl": "",
+      "cover_1024ImageUrl": "",
+      "cover_smallImageUrl": "",
+      "expandBkgImageUrl": "",
+      "expandCoachImageUrl": "",
+      "phoneCoach1ImageUrl": "",
+      "phoneCoverImageUrl": "",
+      "map_bkgImageUrl": ""
+    },
+    "audioPreviewData": "",
+    "coachCount": 1,
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "customTypeNameId": 0,
+    "difficulty": 1,
+    "doubleScoringType": -1,
+    "jdmAttributes": [],
+    "lyricsColor": "FF0000FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 0,
+    "mapName": "SwitchChef",
+    "mode": 6,
+    "originalJDVersion": 2018,
+    "packages": {
+      "mapContent": "SwitchChef_mapContent"
+    },
+    "parentMapName": "SwitchChef",
+    "skuIds": ["jdcmos-ww-all"],
+    "songColors": {
+      "songColor_1A": "",
+      "songColor_1B": "",
+      "songColor_2A": "",
+      "songColor_2B": ""
+    },
+    "status": 3,
+    "sweatDifficulty": 1,
+    "tags": ["Main"],
+    "title": "Food Paradise",
+    "urls": {
+      "jmcs://jd-contents/SwitchChef/SwitchChef_AudioPreview.ogg": ""
+    },
+    "searchTags": [],
+    "searchTagsLocIds": [],
+    "serverChangelist": 0
+  },
+  "SwitchSport": {
+    "artist": "Just Vibes",
+    "assets": {
+      "banner_bkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/d/d3/SwitchSport_banner_bkg.jpg",
+      "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/2/21/Switchsport_coach_1.png",
+      "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/3/3b/Switchsport_cover_generic.jpg",
+      "cover_1024ImageUrl": "https://static.wikia.nocookie.net/justdance/images/2/27/Switchsport_cover_albumbkg.jpg",
+      "cover_smallImageUrl": "https://static.wikia.nocookie.net/justdance/images/3/3b/Switchsport_cover_generic.jpg",
+      "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/2/27/Switchsport_cover_albumbkg.jpg",
+      "expandCoachImageUrl": "https://static.wikia.nocookie.net/justdance/images/c/cb/Switchsport_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/2/21/Switchsport_coach_1.png",
+      "phoneCoverImageUrl": "https://static.wikia.nocookie.net/justdance/images/3/3b/Switchsport_cover_generic.jpg",
+      "map_bkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/d/d3/SwitchSport_banner_bkg.jpg"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19488,38928,58416,77856,97344,116784,136224,155712,175152,194640,214080,233520,253008,272448,291936,311376,330816,350304,369744,389232,408672,428113,447601,467041,486529,505969,525409,544897,564337,583825,603265,622705,642193,661633,681121,700561,720001,739489,758929,778417,797857,817345,836785,856225,875713,895153,914641,934081,953521,973009,992449,1011937,1031377,1050817,1070305,1089745,1109233,1128673,1148113,1167602,1187042,1206530,1225970,1245410,1264898,1284338,1303826,1323266,1342706,1362194,1381634,1401122,1420562],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":411,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":73,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/switchsport/switchsport_AudioPreview.ogg\"}",
+    "coachCount": 1,
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "customTypeNameId": 0,
+    "difficulty": 1,
+    "doubleScoringType": -1,
+    "jdmAttributes": [],
+    "lyricsColor": "FF0000FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 0,
+    "mapName": "SwitchSport",
+    "mode": 6,
+    "originalJDVersion": 2018,
+    "packages": {
+      "mapContent": "SwitchSport_mapContent"
+    },
+    "parentMapName": "SwitchSport",
+    "skuIds": ["jdcmos-ww-all"],
+    "songColors": {
+      "songColor_1A": "FF9000FF",
+      "songColor_1B": "4C0004FF",
+      "songColor_2A": "00E5FFFF",
+      "songColor_2B": "038DAFFF"
+    },
+    "status": 3,
+    "sweatDifficulty": 1,
+    "tags": ["Main"],
+    "title": "Sports 'Til I Drop",
+    "urls": {
+      "jmcs://jd-contents/SwitchSport/SwitchSport_AudioPreview.ogg": "https://jdcn-switch.cdn.ubisoft.cn/public/map/SwitchSport/SwitchSport_AudioPreview.ogg/80bf684116523d2fb54e2c23798cef4a.ogg"
+    },
+    "searchTags": [],
+    "searchTagsLocIds": [],
+    "serverChangelist": 0
+  },
+  "SwitchWitch": {
+    "artist": "Just Vibes",
+    "assets": {
+      "banner_bkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/5/5f/SwitchWitch_banner_bkg.jpg",
+      "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/2/2b/Switchwitch_coach_1.png",
+      "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/0/05/Switchwitch_cover_generic.jpg",
+      "cover_1024ImageUrl": "https://static.wikia.nocookie.net/justdance/images/0/05/Switchwitch_cover_generic.jpg",
+      "cover_smallImageUrl": "https://static.wikia.nocookie.net/justdance/images/0/05/Switchwitch_cover_generic.jpg",
+      "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/9/97/SwitchWitch_Cover_AlbumBkg.jpg",
+      "expandCoachImageUrl": "https://static.wikia.nocookie.net/justdance/images/e/ec/Switchwitch_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/2/2b/Switchwitch_coach_1.png",
+      "phoneCoverImageUrl": "https://static.wikia.nocookie.net/justdance/images/0/05/Switchwitch_cover_generic.jpg",
+      "map_bkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/5/5f/SwitchWitch_banner_bkg.jpg"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,17136,34272,51408,68544,85680,102816,120000,137136,154272,171408,188544,205680,222816,240000,257136,274272,291408,308544,325680,342816,360000,377136,394272,411408,428544,445680,462816,480000,497136,514272,531408,548544,565680,582816,600000,617136,634272,651408,668544,685680,702816,720000,737136,754272,771408,788544,805680,822816,839999,857135,874271,891407,908543,925679,942815,959999,977135,994271,1011407,1028543,1045679,1062815,1079999,1097135,1114271,1131407,1148543,1165679,1182815,1199999,1217135,1234271,1251407,1268543,1285679,1302815,1319999,1337135,1354271,1371407,1388543,1405679,1422815,1439999],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":0}],\"startBeat\":-5,\"endBeat\":517,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":84,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/switchwitch/switchwitch_AudioPreview.ogg\"}",
+    "coachCount": 1,
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "customTypeNameId": 0,
+    "difficulty": 1,
+    "doubleScoringType": -1,
+    "jdmAttributes": [],
+    "lyricsColor": "FF0000FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 0,
+    "mapName": "SwitchWitch",
+    "mode": 6,
+    "originalJDVersion": 2018,
+    "packages": {
+      "mapContent": "SwitchWitch_mapContent"
+    },
+    "parentMapName": "SwitchWitch",
+    "skuIds": ["jdcmos-ww-all"],
+    "songColors": {
+      "songColor_1A": "FFD000FF",
+      "songColor_1B": "FFD000FF",
+      "songColor_2A": "00FFA5FF",
+      "songColor_2B": "02BEF2FF"
+    },
+    "status": 3,
+    "sweatDifficulty": 1,
+    "tags": ["Main"],
+    "title": "Tales Of The Cauldron",
+    "urls": {
+      "jmcs://jd-contents/SwitchWitch/SwitchWitch_AudioPreview.ogg": "https://jdcn-switch.cdn.ubisoft.cn/public/map/SwitchWitch/SwitchWitch_AudioPreview.ogg/2c0806a66374732d5f1e340f316c9592.ogg"
+    },
+    "searchTags": [],
+    "searchTagsLocIds": [],
+    "serverChangelist": 0
+  },
