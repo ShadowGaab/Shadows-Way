@@ -268,7 +268,7 @@
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20139,40278,60418,80557,100696,120836,140975,161114,181254,201393,221532,241671,261811,281950,302089,322229,342368,362507,382647,402786,422925,443065,463204,483343,503483,523622,543761,563901,584040,604179,624319,644458,664597,684736,704876,725015,745154,765294,785433,805572,825712,845851,865990,886130,906269,926408,946548,966687,986826,1006966,1027105,1047244,1067384,1087523,1107662,1127802,1147941,1168080,1188219,1208359,1228498,1248637,1268777,1288916,1309055,1329195,1349334,1369473,1389613,1409752,1429891],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":481,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":71,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/toxicnext/toxicnext_AudioPreview.ogg\"}",
     "coachCount": 1,
-    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "credits": "colors by Dave, All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
     "customTypeNameId": 0,
     "difficulty": 2,
     "doubleScoringType": -1,
@@ -286,10 +286,10 @@
     "parentMapName": "Toxic",
     "skuIds": ["jdcmos-ww-all"],
     "songColors": {
-      "songColor_1A": "444444FF",
-      "songColor_1B": "111111FF",
-      "songColor_2A": "AAAAAAFF",
-      "songColor_2B": "777777FF"
+      "songColor_1A": "C60A48FF",
+      "songColor_1B": "320713FF",
+      "songColor_2A": "8764CDFF",
+      "songColor_2B": "0B1B2DFF"
     },
     "status": 3,
     "sweatDifficulty": 1,
@@ -568,7 +568,7 @@
       "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_generic.png",
       "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_generic.png",
       "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_generic.png",
-      "expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1130960884219514940/slomo_banner_bkg.png",
+      "expandBkgImageUrl": "",
       "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_albumcoach.png",
       "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_1.png",
       "phoneCoach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_2.png",
@@ -620,7 +620,7 @@
       "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_generic.png",
       "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_generic.png",
       "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_generic.png",
-      "expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1131678466274762952/sunroof_banner_bkg.png",
+      "expandBkgImageUrl": "",
       "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_albumcoach.png",
       "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_coach_1.png",
       "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_generic.png",
@@ -670,7 +670,7 @@
       "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
       "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
       "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
-      "expandBkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
+      "expandBkgImageUrl": "",
       "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_albumcoach.png",
       "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_coach_1.png",
       "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
@@ -1327,4 +1327,52 @@
     "searchTags": [],
     "searchTagsLocIds": [],
     "serverChangelist": 0
+  },
+  "GiveThatWolf": {
+    "artist": "Subwoolfer",
+    "assets": {
+      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/GiveThatWolf_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_coach_1.png",
+      "coach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_coach_2.png",
+      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_cover_generic.png",
+      "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
+      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_coach_1.png",
+      "phoneCoach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_coach_2.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_cover_generic.png",
+      "map_bkgImageUrl": "https://jsutdancerubin.hb.bizmrg.com/public/map/GiveThatWolf/GiveThatWolf_Map_BKG.jpg"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23229,46458,69686,92915,116144,139373,162602,185830,209059,232288,255517,278746,301974,325203,348432,371661,394890,418118,441347,464576,487805,511034,534262,557491,580720,603949,627178,650407,673635,696864,720093,743322,766551,789779,813008,836237,859466,882695,905923,929152,952381,975610,998839,1022067,1045296,1068525,1091754,1114983,1138211,1161440,1184669,1207898,1231127,1254355,1277584,1300813,1324042,1347271,1370499,1393728,1416957],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":-4,\"endBeat\":358,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":-2.124,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/givethatwolf/givethatwolf_AudioPreview.ogg\"}",
+    "coachCount": 2,
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "difficulty": 2,
+    "doubleScoringType": -1,
+    "jdmAttributes": [],
+    "lyricsColor": "FF5FFFFF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 451.4,
+    "mapName": "GiveThatWolf",
+    "mode": 6,
+    "originalJDVersion": 2023,
+    "packages": {
+      "mapContent": "GiveThatWolf_mapContent"
+    },
+    "parentMapName": "GiveThatWolf",
+    "skuIds": ["jd2017-pc-ww"],
+    "songColors": {
+      "songColor_1A": "0E6FF3FF",
+      "songColor_1B": "030F20FF",
+      "songColor_2A": "FF0FA8FF",
+      "songColor_2B": "180A32FF"
+    },
+    "status": 5,
+    "sweatDifficulty": 1,
+    "tags": ["Main"],
+    "title": "Give That Wolf A Banana",
+    "urls": {
+      "jmcs://jd-contents/GiveThatWolf/GiveThatWolf_AudioPreview.ogg": "https://jsutdancerubin.hb.bizmrg.com/public/map/GiveThatWolf/c1ed1f87ef66b67440bfdadbb637eb49.ogg"
+    },
+    "serverChangelist": 504440
   },
