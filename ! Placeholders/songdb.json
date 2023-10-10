@@ -108,15 +108,15 @@
   "Codename": {
     "artist": "Artist",
     "assets": {
-      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
-      "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/7e/Placeholder_coach_1_big.png",
-      "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/70/Placeholder_song.jpg",
-      "cover_1024ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/70/Placeholder_song.jpg",
-      "cover_smallImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/70/Placeholder_song.jpg",
+      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/Codename_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_coach_1.png",
+      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
-      "expandCoachImageUrl": "https://static.wikia.nocookie.net/justdance/images/b/b6/Blameitalt_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/7e/Placeholder_coach_1_big.png",
-      "phoneCoverImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/70/Placeholder_song.jpg",
+      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_coach_1.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_cover_generic.png",
       "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
     },
     "audioPreviewData": "",
@@ -132,7 +132,7 @@
     "mapLength": 0,
     "mapName": "Codename",
     "mode": 6,
-    "originalJDVersion": 2023,
+    "originalJDVersion": 2024,
     "packages": {
       "mapContent": "Codename_mapContent"
     },

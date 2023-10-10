@@ -10086,7 +10086,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "ANightInThe"
+                            "mapName": "Versailles"
                         }
                     ],
                     "actionList": "partyMap"
@@ -10166,7 +10166,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "CureForMe"
+                            "mapName": "CureForMeALT"
                         }
                     ],
                     "actionList": "partyMap"
@@ -10176,7 +10176,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "CureForMeALT"
+                            "mapName": "CureForMe"
                         }
                     ],
                     "actionList": "partyMap"
@@ -10276,6 +10276,16 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "MakeFriends"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
                             "mapName": "IWannaDance"
                         }
                     ],
@@ -10316,7 +10326,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "PARTYVIP"
+                            "mapName": "PartyVIP"
                         }
                     ],
                     "actionList": "partyMap"
@@ -10326,7 +10336,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "ItsTheMostWonderfulTime"
+                            "mapName": "WonderfulTime"
                         }
                     ],
                     "actionList": "partyMap"
@@ -10356,7 +10366,17 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "NeverBeLikeYou"
+                            "mapName": "NeverBe"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "Otonablue"
                         }
                     ],
                     "actionList": "partyMap"
@@ -10396,17 +10416,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "SayMyNameALT"
-                        }
-                    ],
-                    "actionList": "partyMap"
-                }, {
-                    "__class": "Item",
-                    "isc": "grp_cover",
-                    "act": "ui_component_base",
-                    "components": [{
-                            "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "ShineALittleLove"
+                            "mapName": "ShineALittle"
                         }
                     ],
                     "actionList": "partyMap"
@@ -10446,7 +10456,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "SwanLake"
+                            "mapName": "SwanLakeRemix"
                         }
                     ],
                     "actionList": "partyMap"
@@ -10546,7 +10556,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "YouShouldSeeMe"
+                            "mapName": "YouShould"
                         }
                     ],
                     "actionList": "partyMap"
