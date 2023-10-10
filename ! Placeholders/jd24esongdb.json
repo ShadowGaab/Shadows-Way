@@ -2249,15 +2249,15 @@
     "artist": "Rema",
     "assets": {
       "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/CalmDown_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.discordapp.com/attachments/682348839893467156/1130147664655290398/44_Sem_Titulo_20230716114139.png",
-      "coach2ImageUrl": "https://cdn.discordapp.com/attachments/682348839893467156/1130147664990847086/44_Sem_Titulo_20230716113621.png",
+      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/calmdown_coach_1.png",
+      "coach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/calmdown_coach_2.png",
       "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/calmdown_cover_generic.png",
       "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/calmdown_cover_generic.png",
       "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/calmdown_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
       "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/calmdown_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/682348839893467156/1130147664655290398/44_Sem_Titulo_20230716114139.png",
-      "phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/682348839893467156/1130147664990847086/44_Sem_Titulo_20230716113621.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/calmdown_coach_1.png",
+      "phoneCoach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/calmdown_coach_2.png",
       "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/calmdown_cover_generic.png",
       "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
     },
@@ -2291,7 +2291,7 @@
     "tags": ["Main"],
     "title": "Calm Down",
     "urls": {
-      "jmcs://jd-contents/CalmDown/CalmDown_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/CalmDown_audiopreview.ogg"
+      "jmcs://jd-contents/CalmDown/CalmDown_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/CalmDown_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
