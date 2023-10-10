@@ -1148,7 +1148,7 @@
     "difficulty": 1,
     "doubleScoringType": -1,
     "jdmAttributes": [],
-    "lyricsColor": "FF0000FF",
+    "lyricsColor": "FFB900FF",
     "lyricsType": 0,
     "mainCoach": -1,
     "mapLength": 0,
@@ -1799,7 +1799,7 @@
       "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/partyvip_cover_generic.png",
       "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
     },
-    "audioPreviewData": "",
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22857,45714,68571,91428,114285,137142,160000,182857,205714,228571,251428,274285,297142,320000,342857,365714,388571,411428,434285,457142,480000,502857,525714,548571,571428,594285,617142,640000,662857,685714,708571,731428,754285,777142,800000,822857,845714,868571,891428,914285,937142,960000,982857,1005714,1028571,1051428,1074285,1097142,1120000,1142857,1165714,1188571,1211428,1234285,1257142,1280000,1302857,1325714,1348571,1371428,1394285,1417142],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-17,\"endBeat\":447,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/partyvip/partyvip_AudioPreview.ogg\"}",
     "coachCount": 1,
     "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
     "customTypeName": "VIP-Made Version",
@@ -1816,7 +1816,7 @@
     "packages": {
       "mapContent": "PartyVIP_mapContent"
     },
-    "parentMapName": "PartyVIP",
+    "parentMapName": "PARTY",
     "skuIds": ["jdcmos-ww-all"],
     "songColors": {
       "songColor_1A": "444444FF",
@@ -1829,7 +1829,7 @@
     "tags": ["Main"],
     "title": "If You Wanna Party",
     "urls": {
-      "jmcs://jd-contents/PartyVIP/PartyVIP_AudioPreview.ogg": ""
+      "jmcs://jd-contents/PartyVIP/PartyVIP_AudioPreview.ogg": "https://static.wikia.nocookie.net/justdance/images/5/5f/PARTY.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -2770,6 +2770,56 @@
     "title": "OTONABLUE",
     "urls": {
       "jmcs://jd-contents/Otonablue/Otonablue_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Otonablue_audiopreview.ogg"
+    },
+    "searchTags": [],
+    "searchTagsLocIds": [],
+    "serverChangelist": 0
+  },
+  "Despecha": {
+    "artist": "ROSALÍA",
+    "assets": {
+      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/Despecha_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/despecha_coach_1.png",
+      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/despecha_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/despecha_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/despecha_cover_generic.png",
+      "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
+      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/despecha_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/despecha_coach_1.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/despecha_cover_generic.png",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22145,44290,66436,88581,110726,132872,155017,177162,199308,221453,243598,265744,287889,310034,332179,354325,376470,398615,420761,442906,465051,487197,509342,531487,553633,575778,597923,620068,642214,664359,686504,708650,730795,752940,775086,797231,819376,841521,863667,885812,907957,930103,952248,974393,996539,1018684,1040829,1062975,1085120,1107265,1129410,1151556,1173701,1195846,1217992,1240137,1262282,1284428,1306573,1328718,1350864,1373009,1395154,1417299,1439445],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":430,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/despecha/despecha_AudioPreview.ogg\"}",
+    "coachCount": 1,
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "customTypeNameId": 0,
+    "difficulty": 1,
+    "doubleScoringType": -1,
+    "jdmAttributes": [],
+    "lyricsColor": "FF0000FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 0,
+    "mapName": "Despecha",
+    "mode": 6,
+    "originalJDVersion": 2024,
+    "packages": {
+      "mapContent": "Despecha_mapContent"
+    },
+    "parentMapName": "Despecha",
+    "skuIds": ["jdcmos-ww-all"],
+    "songColors": {
+      "songColor_1A": "444444FF",
+      "songColor_1B": "111111FF",
+      "songColor_2A": "AAAAAAFF",
+      "songColor_2B": "777777FF"
+    },
+    "status": 3,
+    "sweatDifficulty": 1,
+    "tags": ["Main"],
+    "title": "DESPECHÀ",
+    "urls": {
+      "jmcs://jd-contents/Despecha/Despecha_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Despecha_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
