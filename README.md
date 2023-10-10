@@ -32,4 +32,8 @@ jim | assets
 
 PandaCloud | assets and other stuff
 
+Sem Criatividade / Nicolauau | assets
+
+Dave | songcolors & some banners
+
 if ANY credits are missing, you know how to contact me.
