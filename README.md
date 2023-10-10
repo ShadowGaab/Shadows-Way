@@ -36,4 +36,6 @@ Sem Criatividade / Nicolauau | assets
 
 Dave | songcolors & some banners
 
+TricXK | assets
+
 if ANY credits are missing, you know how to contact me.
