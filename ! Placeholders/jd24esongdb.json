@@ -613,25 +613,25 @@
     "searchTagsLocIds": [],
     "serverChangelist": 0
   },
-  "TitiMePergunto": {
+  "TitiMePregunto": {
     "artist": "Bad Bunny",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/TitiMePergunto_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepergunto_coach_1.png",
-      "coach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepergunto_coach_2.png",
-      "coach3ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepergunto_coach_3.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/TitiMePregunto_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepregunto_coach_1.png",
+      "coach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepregunto_coach_2.png",
+      "coach3ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepregunto_coach_3.png",
       "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguinto_cover_generic.png",
       "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguinto_cover_generic.png",
       "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguinto_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepergunto_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepergunto_coach_1.png",
-      "phoneCoach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepergunto_coach_2.png",
-      "phoneCoach3ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepergunto_coach_3.png",
+      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepregunto_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepregunto_coach_1.png",
+      "phoneCoach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepregunto_coach_2.png",
+      "phoneCoach3ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepregunto_coach_3.png",
       "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguinto_cover_generic.png",
       "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
     },
-    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45023,67487,89999,112511,135023,157487,179999,202511,225023,247487,269999,292511,315023,337487,359999,382511,405023,427487,449999,472511,495023,517487,539999,562511,585023,607487,629999,652511,675023,697487,719999,742511,765023,787487,809999,832510,855022,877486,899998,922510,945022,967486,989998,1012510,1035022,1057486,1079998,1102510,1125022,1147486,1169998,1192510,1215022,1237486,1259998,1282510,1305022,1327486,1349998,1372510,1395022,1417486,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":421,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/titimepergunto/titimepergunto_AudioPreview.ogg\"}",
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45023,67487,89999,112511,135023,157487,179999,202511,225023,247487,269999,292511,315023,337487,359999,382511,405023,427487,449999,472511,495023,517487,539999,562511,585023,607487,629999,652511,675023,697487,719999,742511,765023,787487,809999,832510,855022,877486,899998,922510,945022,967486,989998,1012510,1035022,1057486,1079998,1102510,1125022,1147486,1169998,1192510,1215022,1237486,1259998,1282510,1305022,1327486,1349998,1372510,1395022,1417486,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":421,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/titimepregunto/titimepregunto_AudioPreview.ogg\"}",
     "coachCount": 3,
     "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
     "customTypeNameId": 0,
@@ -642,13 +642,13 @@
     "lyricsType": 0,
     "mainCoach": -1,
     "mapLength": 0,
-    "mapName": "TitiMePergunto",
+    "mapName": "TitiMePregunto",
     "mode": 6,
     "originalJDVersion": 2024,
     "packages": {
-      "mapContent": "TitiMePergunto_mapContent"
+      "mapContent": "TitiMePregunto_mapContent"
     },
-    "parentMapName": "TitiMePergunto",
+    "parentMapName": "TitiMePregunto",
     "skuIds": ["jdcmos-ww-all"],
     "songColors": {
       "songColor_1A": "444444FF",
@@ -659,31 +659,31 @@
     "status": 3,
     "sweatDifficulty": 1,
     "tags": ["Main"],
-    "title": "Tití Me Perguntó",
+    "title": "Tití Me Preguntó",
     "urls": {
-      "jmcs://jd-contents/TitiMePergunto/TitiMePergunto_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TitiMePergunto_audiopreview.ogg"
+      "jmcs://jd-contents/TitiMePregunto/TitiMePregunto_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TitiMePregunto_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
     "serverChangelist": 0
   },
-  "TitiMePerguntoALT": {
+  "TitiMePreguntoALT": {
     "artist": "Bad Bunny",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/TitiMePerguntoALT_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguntoalt_coach_1.png",
-      "coach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguntoalt_coach_2.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguntoalt_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguntoalt_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguntoalt_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/TitiMePreguntoALT_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepreguntoalt_coach_1.png",
+      "coach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepreguntoalt_coach_2.png",
+      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepreguntoalt_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepreguntoalt_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepreguntoalt_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguntoalt_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguntoalt_coach_1.png",
-      "phoneCoach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguntoalt_coach_2.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimeperguntoalt_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepreguntoalt_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepreguntoalt_coach_1.png",
+      "phoneCoach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepreguntoalt_coach_2.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/titimepreguntoalt_cover_generic.png",
       "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
     },
-    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45023,67487,89999,112511,135023,157487,179999,202511,225023,247487,269999,292511,315023,337487,359999,382511,405023,427487,449999,472511,495023,517487,539999,562511,585023,607487,629999,652511,675023,697487,719999,742511,765023,787487,809999,832510,855022,877486,899998,922510,945022,967486,989998,1012510,1035022,1057486,1079998,1102510,1125022,1147486,1169998,1192510,1215022,1237486,1259998,1282510,1305022,1327486,1349998,1372510,1395022,1417486,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":421,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/titimeperguntoalt/titimeperguntoalt_AudioPreview.ogg\"}",
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45023,67487,89999,112511,135023,157487,179999,202511,225023,247487,269999,292511,315023,337487,359999,382511,405023,427487,449999,472511,495023,517487,539999,562511,585023,607487,629999,652511,675023,697487,719999,742511,765023,787487,809999,832510,855022,877486,899998,922510,945022,967486,989998,1012510,1035022,1057486,1079998,1102510,1125022,1147486,1169998,1192510,1215022,1237486,1259998,1282510,1305022,1327486,1349998,1372510,1395022,1417486,1439998],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":421,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/titimepreguntoalt/titimepreguntoalt_AudioPreview.ogg\"}",
     "coachCount": 2,
     "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
     "customTypeName": "Barbecue Version",
@@ -694,13 +694,13 @@
     "lyricsType": 0,
     "mainCoach": -1,
     "mapLength": 0,
-    "mapName": "TitiMePerguntoALT",
+    "mapName": "TitiMePreguntoALT",
     "mode": 6,
     "originalJDVersion": 2024,
     "packages": {
-      "mapContent": "TitiMePerguntoALT_mapContent"
+      "mapContent": "TitiMePreguntoALT_mapContent"
     },
-    "parentMapName": "TitiMePergunto",
+    "parentMapName": "TitiMePregunto",
     "skuIds": ["jdcmos-ww-all"],
     "songColors": {
       "songColor_1A": "444444FF",
@@ -711,9 +711,9 @@
     "status": 3,
     "sweatDifficulty": 1,
     "tags": ["Main"],
-    "title": "Tití Me Perguntó",
+    "title": "Tití Me Preguntó",
     "urls": {
-      "jmcs://jd-contents/TitiMePerguntoALT/TitiMePerguntoALT_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TitiMePergunto_audiopreview.ogg"
+      "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TitiMePregunto_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],

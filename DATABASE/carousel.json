@@ -10486,7 +10486,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "TitiMePergunto"
+                            "mapName": "TitiMePregunto"
                         }
                     ],
                     "actionList": "partyMap"
@@ -10496,7 +10496,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "TitiMePerguntoALT"
+                            "mapName": "TitiMePreguntoALT"
                         }
                     ],
                     "actionList": "partyMap"
