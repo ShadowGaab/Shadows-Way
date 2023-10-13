@@ -9589,16 +9589,6 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "LoveAgain"
-                        }
-                    ],
-                    "actionList": "partyMap"
-                }, {
-                    "__class": "Item",
-                    "isc": "grp_cover",
-                    "act": "ui_component_base",
-                    "components": [{
-                            "__class": "JD_CarouselContentComponent_Song",
                             "mapName": "LoveMeLand"
                         }
                     ],
@@ -10111,6 +10101,26 @@
                     ],
                     "actionList": "partyMap"
                 }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "Butter"
+                      }
+                  ],
+                  "actionList": "partyMap"
+              }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "ButterALT"
+                      }
+                  ],
+                  "actionList": "partyMap"
+              }, {
                     "__class": "Item",
                     "isc": "grp_cover",
                     "act": "ui_component_base",
@@ -10186,7 +10196,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "Despecha"
+                            "mapName": "DESPECHA"
                         }
                     ],
                     "actionList": "partyMap"
@@ -10371,6 +10381,26 @@
                     ],
                     "actionList": "partyMap"
                 }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "Makeba"
+                      }
+                  ],
+                  "actionList": "partyMap"
+              }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "MyNameIs"
+                      }
+                  ],
+                  "actionList": "partyMap"
+              }, {
                     "__class": "Item",
                     "isc": "grp_cover",
                     "act": "ui_component_base",
@@ -10421,6 +10451,16 @@
                     ],
                     "actionList": "partyMap"
                 }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "Seven"
+                      }
+                  ],
+                  "actionList": "partyMap"
+              }, {
                     "__class": "Item",
                     "isc": "grp_cover",
                     "act": "ui_component_base",
@@ -10561,6 +10601,16 @@
                     ],
                     "actionList": "partyMap"
                 }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "Woof"
+                      }
+                  ],
+                  "actionList": "partyMap"
+              }, {
                     "__class": "Item",
                     "isc": "grp_cover",
                     "act": "ui_component_base",

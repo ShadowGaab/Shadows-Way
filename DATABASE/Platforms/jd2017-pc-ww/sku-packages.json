@@ -5076,10 +5076,10 @@
 		"version": 1
 	},
    "EQUISBETA_mapContent": {
-        "md5": "8d99b52e3f43cd6c86da1a7471c59396",
-        "storageType": 0,
-        "url": "https://cdn.glitch.global/80c4b22c-e5b1-401a-a8bb-72f4832fbee4/equisbeta_main_scene_pc.zip?v=1666390936671",
-        "version": 1
+   "md5": "8d99b52e3f43cd6c86da1a7471c59396",
+  "storageType": 0,
+  "url": "https://cdn.glitch.global/80c4b22c-e5b1-401a-a8bb-72f4832fbee4/equisbeta_main_scene_pc.zip?v=1666390936671",
+  "version": 1
   },
 	"FriendZone_mapContent": {
 		"md5": "0b0d9f5138d3cefde691a2f72a2a30ad",
@@ -5108,7 +5108,7 @@
   "GiveThatWolf_mapContent": {
     "md5": "5d6221a35e2ecf466324118a4f1a7f0c",
     "storageType": 0,
-    "url": "https://jsutdancerubin.hb.bizmrg.com/sku-packages/givethatwolf_main_scene_pc_1.zip",
+    "url": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/givethatwolf_main_scene_pc_1.zip",
     "version": 1
   },
   "CantStopTheFeeling_mapContent": {

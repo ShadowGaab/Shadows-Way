@@ -58,7 +58,7 @@
       "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/iwannadance_cover_generic.png",
       "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/iwannadance_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
-      "expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1120852492012503101/1151279315867144232/iwannadance_cover_albumcoach.png",
+      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/iwannadance_cover_albumcoach.png",
       "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/iwannadance_coach_1.png",
       "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/iwannadance_cover_generic.png",
       "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
@@ -2578,7 +2578,7 @@
       "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24816,49632,74496,99312,124129,148945,173809,198625,223441,248257,273121,297937,322753,347569,372433,397249,422065,446881,471745,496561,521377,546194,571058,595874,620690,645506,670322,695186,720002,744818,769634,794498,819314,844130,868946,893810,918626,943442,968258,993123,1017939,1042755,1067571,1092435,1117251,1142067,1166883,1191747,1216563,1241379,1266195,1291059,1315875,1340691,1365507,1390323,1415187],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":406,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/makeba/makeba_AudioPreview.ogg\"}",
-    "coachCount": 1,
+    "coachCount": 3,
     "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
     "customTypeNameId": 0,
     "difficulty": 1,
@@ -2605,7 +2605,7 @@
     "status": 3,
     "sweatDifficulty": 1,
     "tags": ["Main"],
-    "title": "SongName",
+    "title": "Makeba",
     "urls": {
       "jmcs://jd-contents/Makeba/Makeba_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Makeba_audiopreview.ogg"
     },
@@ -2632,7 +2632,7 @@
       "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24816,49632,74496,99312,124129,148945,173809,198625,223441,248257,273121,297937,322753,347569,372433,397249,422065,446881,471745,496561,521377,546194,571058,595874,620690,645506,670322,695186,720002,744818,769634,794498,819314,844130,868946,893810,918626,943442,968258,993123,1017939,1042755,1067571,1092435,1117251,1142067,1166883,1191747,1216563,1241379,1266195,1291059,1315875,1340691,1365507,1390323,1415187],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":406,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/makefriends/makefriends_AudioPreview.ogg\"}",
-    "coachCount": 1,
+    "coachCount": 3,
     "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
     "customTypeNameId": 0,
     "difficulty": 1,
@@ -2684,7 +2684,7 @@
       "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24816,49632,74496,99312,124129,148945,173809,198625,223441,248257,273121,297937,322753,347569,372433,397249,422065,446881,471745,496561,521377,546194,571058,595874,620690,645506,670322,695186,720002,744818,769634,794498,819314,844130,868946,893810,918626,943442,968258,993123,1017939,1042755,1067571,1092435,1117251,1142067,1166883,1191747,1216563,1241379,1266195,1291059,1315875,1340691,1365507,1390323,1415187],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":406,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/makefriends/makefriends_AudioPreview.ogg\"}",
-    "coachCount": 1,
+    "coachCount": 2,
     "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
     "customTypeNameId": 0,
     "difficulty": 1,
@@ -2740,7 +2740,7 @@
       "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24816,49632,74496,99312,124129,148945,173809,198625,223441,248257,273121,297937,322753,347569,372433,397249,422065,446881,471745,496561,521377,546194,571058,595874,620690,645506,670322,695186,720002,744818,769634,794498,819314,844130,868946,893810,918626,943442,968258,993123,1017939,1042755,1067571,1092435,1117251,1142067,1166883,1191747,1216563,1241379,1266195,1291059,1315875,1340691,1365507,1390323,1415187],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":406,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/otonablue/otonablue_AudioPreview.ogg\"}",
-    "coachCount": 1,
+    "coachCount": 4,
     "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
     "customTypeNameId": 0,
     "difficulty": 1,
@@ -2775,7 +2775,7 @@
     "searchTagsLocIds": [],
     "serverChangelist": 0
   },
-  "Despecha": {
+  "DESPECHA": {
     "artist": "ROSALÍA",
     "assets": {
       "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/Despecha_banner_bkg.png",
@@ -2800,13 +2800,13 @@
     "lyricsType": 0,
     "mainCoach": -1,
     "mapLength": 0,
-    "mapName": "Despecha",
+    "mapName": "DESPECHA",
     "mode": 6,
     "originalJDVersion": 2024,
     "packages": {
-      "mapContent": "Despecha_mapContent"
+      "mapContent": "DESPECHA_mapContent"
     },
-    "parentMapName": "Despecha",
+    "parentMapName": "DESPECHA",
     "skuIds": ["jdcmos-ww-all"],
     "songColors": {
       "songColor_1A": "444444FF",
@@ -2819,7 +2819,7 @@
     "tags": ["Main"],
     "title": "DESPECHÀ",
     "urls": {
-      "jmcs://jd-contents/Despecha/Despecha_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Despecha_audiopreview.ogg"
+      "jmcs://jd-contents/DESPECHA/DESPECHA_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DESPECHA_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
