@@ -2,15 +2,15 @@
   "LoveAgain": {
     "artist": "Dua Lipa",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/LoveAgain_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_coach_1.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/LoveAgain_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_coach_1.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_coach_1.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_coach_1.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/loveagain_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151567435938410587/LoveAgain_bannerbkg.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23808,47664,74112,98304,122448,146592,170736,195216,219744,244224,268752,293328,317856,342432,367008,391488,415920,440399,464831,489215,513599,537983,562319,586751,611183,635615,660047,684575,709055,733583,758063,782351,806639,830927,855215,879887,904511,929135,953759,978191,1002623,1027103,1051535,1076111,1100639,1125215,1149790,1174174,1198558,1222990,1247374,1271950,1296478,1321054,1345582,1370014,1394494,1418926],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2],\"startBeat\":0,\"endBeat\":542,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":0,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/loveagain/loveagain_AudioPreview.ogg\"}",
@@ -43,7 +43,7 @@
     "tags": ["Main"],
     "title": "Love Again",
     "urls": {
-      "jmcs://jd-contents/LoveAgain/LoveAgain_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/LoveAgain_audiopreview.ogg"
+      "jmcs://jd-contents/LoveAgain/LoveAgain_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/LoveAgain_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -52,21 +52,21 @@
   "WatchOutForThis": {
     "artist": "Major Lazer ft. Busy Signal, The Flexican and FS Green",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/WatchOutForThis_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_1.png",
-      "coach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_2.png",
-      "coach3ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_3.png",
-      "coach4ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_4.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/WatchOutForThis_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_1.png",
+      "coach2ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_2.png",
+      "coach3ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_3.png",
+      "coach4ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_4.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/9/96/Watchoutforthis_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.me/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_1.png",
-      "phoneCoach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_2.png",
-      "phoneCoach3ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_3.png",
-      "phoneCoach4ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_4.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_1.png",
+      "phoneCoach2ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_2.png",
+      "phoneCoach3ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_3.png",
+      "phoneCoach4ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_coach_4.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/watchoutforthis_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151893679091503236/WatchForThis_bannerbkg.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26667,53333,80000,106667,133333,160000,186667,213333,240000,266667,293333,320000,346667,373333,400000,426667,453333,480000,506667,533333,560000,586667,613333,640000,666667,693333,720000,746667,773333,800000,826667,853333,880000,906667,933333,960000,986667,1013333,1040000,1066667,1093333,1120000,1146667,1173333,1200000,1226667,1253333,1280000,1306667,1333333,1360000,1386667,1413333,1440000,1466667,1493333,1520000,1546667,1573333,1600000,1626667,1653333,1680000,1706667,1733333,1760000,1786667,1813333,1840000,1866667,1893333,1920000,1946667,1973333,2000000,2026667,2053333,2080000,2106667,2133333,2160000,2186667,2213333,2240000,2266667,2293333,2320000,2346667,2373333,2400000,2426667,2453333,2480000,2506667,2533333,2560000,2586667,2613333,2640000,2666667,2693333,2720000,2746667,2773333,2800000,2826667,2853333,2880000,2906667,2933333,2960000,2986667,3013333,3040000,3066667,3093333,3120000,3146667,3173333,3200000,3226667,3253333,3280000,3306667,3333333,3360000,3386667,3413333,3440000,3466667,3493333,3520000,3546667,3573333,3600000,3626667,3653333,3680000,3706667,3733333,3760000,3786667,3813333,3840000,3866667,3893333,3920000,3946667,3973333,4000000,4026667,4053333,4080000,4106667,4133333,4160000,4186667,4213333,4240000,4266667,4293333,4320000,4346667,4373333,4400000,4426667,4453333,4480000,4506667,4533333,4560000,4586667,4613333,4640000,4666667,4693333,4720000,4746667,4773333,4800000,4826667,4853333,4880000,4906667,4933333,4960000,4986667,5013333,5040000,5066667,5093333,5120000,5146667,5173333,5200000,5226667,5253333,5280000,5306667,5333333,5360000,5386667,5413333,5440000,5466667,5493333,5520000,5546667,5573333,5600000,5626667,5653333,5680000,5706667,5733333,5760000,5786667,5813333,5840000,5866667,5893333,5920000,5946667,5973333,6000000,6026667,6053333,6080000,6106667,6133333,6160000,6186667,6213333,6240000,6266667,6293333,6320000,6346667,6373333,6400000,6426667,6453333,6480000,6506667,6533333,6560000,6586667,6613333,6640000,6666667,6693333,6720000,6746667,6773333,6800000,6826667,6853333,6880000,6906667,6933333,6960000,6986667,7013333,7040000,7066667,7093333,7120000,7146667,7173333,7200000,7226667,7253333,7280000,7306667,7333333,7360000,7386667,7413333,7440000,7466667,7493333,7520000,7546667,7573333,7600000,7626667,7653333,7680000,7706667,7733333,7760000,7786667,7813333,7840000,7866667,7893333,7920000,7946667,7973333,8000000,8026667,8053333,8080000,8106667,8133333,8160000,8186667,8213333,8240000,8266667,8293333,8320000,8346667,8373333,8400000,8426667,8453333,8480000,8506667,8533333,8560000,8586667,8613333,8640000,8666667,8693333,8720000,8746667,8773333,8800000,8826667,8853333,8880000,8906667,8933333,8960000,8986667,9013333,9040000,9066667,9093333,9120000,9146667,9173333,9200000,9226667,9253333,9280000,9306667,9333333,9360000,9386667,9413332],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":-15,\"endBeat\":283,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":289,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/watchoutforthis/watchoutforthis_AudioPreview.ogg\"}",
@@ -99,7 +99,7 @@
     "tags": ["Main"],
     "title": "Watch Out For This (Bumaye)",
     "urls": {
-      "jmcs://jd-contents/WatchOutForThis/WatchOutForThis_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/WatchOutForThis_audiopreview.ogg"
+      "jmcs://jd-contents/WatchOutForThis/WatchOutForThis_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/WatchOutForThis_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -108,15 +108,15 @@
   "SweetDreams": {
     "artist": "Eurythmics",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/SweetDreams_banner_bkg",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_coach_1.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/SweetDreams_banner_bkg",
+      "coach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_coach_1.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_coach_1.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_coach_1.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sweetdreams_cover_generic.png",
       "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22896,45744,68592,91439,114287,137183,160031,182879,205727,228575,251471,274319,297167,320015,342863,365759,388607,411455,434303,457151,479999,502895,525743,548591,571438,594286,617182,640030,662878,685726,708574,731470,754318,777166,800014,822862,845758,868606,891454,914302,937150,959998,982894,1005742,1028589,1051437,1074285,1097181,1120029,1142877,1165725,1188573,1211469,1234317,1257165,1280013,1302861,1325757,1348605,1371453,1394301,1417149,1439997],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":447,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sweetdreams/sweetdreams_AudioPreview.ogg\"}",
@@ -149,7 +149,7 @@
     "tags": ["Main"],
     "title": "Sweet Dreams (Are Made Of This)",
     "urls": {
-      "jmcs://jd-contents/SweetDreams/SweetDreams_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SweetDreams_audiopreview.ogg"
+      "jmcs://jd-contents/SweetDreams/SweetDreams_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SweetDreams_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -201,7 +201,7 @@
     "tags": ["Main"],
     "title": "Don't Rush",
     "urls": {
-      "jmcs://jd-contents/DontRush/DontRush_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DontRush_audiopreview.ogg"
+      "jmcs://jd-contents/DontRush/DontRush_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DontRush_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -210,7 +210,7 @@
   "MORE": {
     "artist": "K/DA Ft. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns & Seraphine",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/More_banner_bkg.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/More_banner_bkg.png",
       "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MORE/x1/MORE_Coach_1.tga.ckd/e530cb6b4673d97c34252f9a8bb363be.ckd",
       "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/MORE/x1/MORE_Coach_2.tga.ckd/17b04d9a0cc94d0306103c529459664f.ckd",
       "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/MORE/x1/MORE_Coach_3.tga.ckd/328bc142ca8e28fc734e03c33e4151af.ckd",
@@ -262,17 +262,17 @@
   "WetTennis": {
     "artist": "Sofi Tukker",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/WetTennis_banner_bkg.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/WetTennis_banner_bkg.png",
       "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/6e/Wettennis_jdc_coach_1.png",
       "coach2ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/78/Wettennis_jdc_coach_2.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/wettennis_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/wettennis_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/wettennis_cover_generic.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/wettennis_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/wettennis_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/wettennis_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/3/32/WetTennis_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/wettennis_cover_albumcoach.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/wettennis_cover_albumcoach.png",
       "phoneCoach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/6e/Wettennis_jdc_coach_1.png",
       "phoneCoach2ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/78/Wettennis_jdc_coach_2.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/wettennis_cover_generic.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/wettennis_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151703455405183036/WetTennis_banner_bkg3.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30316,60632,90948,121263,151579,181895,212211,242527,272842,303158,333474,363790,394106,424421,454737,485053,515369,545684,576000,606316,636632,666948,697263,727579,757895,788211,818527,848842,879158,909474,939790,970106,1000421,1030737,1061053,1091369,1121684,1152000,1182316,1212632,1242948,1273263,1303579,1333895,1364211,1394527,1424842],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-10,\"endBeat\":244,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":47,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/wettennis/wettennis_AudioPreview.ogg\"}",
@@ -311,7 +311,7 @@
   "ToxicNext": {
     "artist": "Britney Spears",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/ToxicNext_banner_bkg.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/ToxicNext_banner_bkg.png",
       "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/8/8d/Toxicnext_coach_1.png",
       "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/d/d7/Toxicnext_jdc_cover_generic.png",
       "cover_1024ImageUrl": "https://static.wikia.nocookie.net/justdance/images/d/d7/Toxicnext_jdc_cover_generic.png",
@@ -361,13 +361,13 @@
   "ToxicNextALT": {
     "artist": "Britney Spears",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/ToxicNextALT_banner_bkg.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/ToxicNextALT_banner_bkg.png",
       "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/3/33/Toxicnextalt_coach_1.png",
       "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/1/1f/Toxicnextalt_jdc_cover_generic.png",
       "cover_1024ImageUrl": "https://static.wikia.nocookie.net/justdance/images/1/1f/Toxicnextalt_jdc_cover_generic.png",
       "cover_smallImageUrl": "https://static.wikia.nocookie.net/justdance/images/1/1f/Toxicnextalt_jdc_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/3/3c/Toxicnextalt_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/ToxicNextALT_cover_albumcoach.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/ToxicNextALT_cover_albumcoach.png",
       "phoneCoach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/3/33/Toxicnextalt_coach_1.png",
       "phoneCoverImageUrl": "https://static.wikia.nocookie.net/justdance/images/1/1f/Toxicnextalt_jdc_cover_generic.png",
       "map_bkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/d/d8/Toxicnextalt_map_bkg.png"
@@ -411,7 +411,7 @@
   "Majesty": {
     "artist": "Apashe ft. Waisu",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/Majesty_banner_bkg.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/Majesty_banner_bkg.png",
       "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/75/Majesty_coach_1.png",
       "coach2ImageUrl": "https://static.wikia.nocookie.net/justdance/images/e/ee/Majesty_coach_2.png",
       "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/8/8c/Majesty_jdc_cover_generic.png",
@@ -463,7 +463,7 @@
   "WannabeItzy": {
     "artist": "Itzy",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/WannabeItzy_banner_bkg.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/WannabeItzy_banner_bkg.png",
       "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/71/Wannabeitzy_coach_1.png",
       "coach2ImageUrl": "https://static.wikia.nocookie.net/justdance/images/b/b4/Wannabeitzy_coach_2.png",
       "coach3ImageUrl": "https://static.wikia.nocookie.net/justdance/images/0/08/Wannabeitzy_coach_3.png",
@@ -517,7 +517,7 @@
   "WannabeItzyALT": {
     "artist": "Itzy",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/WannabeItzyALT_banner_bkg.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/WannabeItzyALT_banner_bkg.png",
       "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/76/WannabeItzyALT_Coach_1.png",
       "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/69/Wannabeitzyalt_jdc_cover_generic.png",
       "cover_1024ImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/69/Wannabeitzyalt_jdc_cover_generic.png",
@@ -567,15 +567,15 @@
   "ThankUNext": {
     "artist": "Ariana Grande",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_coach_1.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_coach_1.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/3/3b/ThankUNext_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_coach_1.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_coach_1.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/thankunext_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1130626174272422048/thankunext_banner_bkg.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26916,53832,80748,107664,134579,161495,188411,215327,242243,269159,296075,322991,349907,376822,403738,430654,457570,484486,511402,538318,565234,592150,619065,645981,672897,699813,726729,753645,780561,807477,834393,861308,888224,915140,942056,968972,995888,1022804,1049720,1076636,1103551,1130467,1157383,1184299,1211215,1238131,1265047,1291963,1318879,1345794,1372710,1399626,1426542,1453458,1480374,1507290,1534206,1561121,1588037,1614953,1641869,1668785,1695701,1722617,1749533,1776449,1803364,1830280,1857196,1884112,1911028,1937944,1964860,1991776,2018692,2045607,2072523,2099439,2126355,2153271,2180187,2207103,2234019,2260935,2287850,2314766,2341682,2368598,2395514,2422430,2449346,2476262,2503178,2530093,2557009,2583925,2610841,2637757,2664673,2691589,2718505,2745421,2772336,2799252,2826168,2853084,2880000,2906916,2933832,2960748,2987664,3014579,3041495,3068411,3095327,3122243,3149159,3176075,3202991,3229907,3256822,3283738,3310654,3337570,3364486,3391402,3418318,3445234,3472150,3499065,3525981,3552897,3579813,3606729,3633645,3660561,3687477,3714393,3741308,3768224,3795140,3822056,3848972,3875888,3902804,3929720,3956636,3983551,4010467,4037383,4064299,4091215,4118131,4145047,4171963,4198879,4225794,4252710,4279626,4306542,4333458,4360374,4387290,4414206,4441121,4468037,4494953,4521869,4548785,4575701,4602617,4629533,4656449,4683364,4710280,4737196,4764112,4791028,4817944,4844860,4871776,4898692,4925607,4952523,4979439,5006355,5033271,5060187,5087103,5114019,5140935,5167850,5194766,5221682,5248598,5275514,5302430,5329346,5356262,5383178,5410093,5437009,5463925,5490841,5517757,5544673,5571589,5598505,5625421,5652336,5679252,5706168,5733084,5760000,5786916,5813832,5840748,5867664,5894579,5921495,5948411,5975327,6002243,6029159,6056075,6082991,6109907,6136822,6163738,6190654,6217570,6244486,6271402,6298318,6325234,6352150,6379065,6405981,6432897,6459813,6486729,6513645,6540561,6567477,6594393,6621308,6648224,6675140,6702056,6728972,6755888,6782804,6809720,6836636,6863551,6890467,6917383,6944299,6971215,6998131,7025047,7051963,7078879,7105794,7132710,7159626,7186542,7213458,7240374,7267290,7294206,7321121,7348037,7374953,7401869,7428785,7455701,7482617,7509533,7536449,7563364,7590280,7617196,7644112,7671028,7697944,7724860,7751776,7778692,7805607,7832523,7859439,7886355,7913271,7940187,7967103,7994019,8020935,8047850,8074766,8101682,8128598,8155514,8182430,8209346,8236262,8263178,8290093,8317009,8343925,8370841,8397757,8424673,8451589,8478505,8505421,8532336,8559252,8586168,8613084,8640000,8666916,8693832,8720748,8747664,8774579,8801495,8828411,8855327,8882243,8909159,8936075,8962991,8989907,9016822,9043738,9070654,9097570,9124486,9151402,9178318,9205234,9232150,9259065,9285981,9312897,9339813,9366729,9393645,9420561,9447477,9474393,9501308,9528224,9555140,9582056,9608972,9635888,9662804,9689720,9716636,9743551,9770467,9797383,9824299,9851215,9878131,9905047,9931963,9958879,9985793],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":432,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/thankunext/thankunext_AudioPreview.ogg\"}",
@@ -617,19 +617,19 @@
   "SloMo": {
     "artist": "Chanel",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_1.png",
-      "coach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_2.png",
-      "coach3ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_3.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_1.png",
+      "coach2ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_2.png",
+      "coach3ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_3.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/f/f8/SloMo_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_1.png",
-      "phoneCoach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_2.png",
-      "phoneCoach3ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_3.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_1.png",
+      "phoneCoach2ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_2.png",
+      "phoneCoach3ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_coach_3.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/slomo_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1130960884219514940/slomo_banner_bkg.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,27429,54857,82286,109714,137143,164571,192000,219429,246857,274286,301714,329143,356571,384000,411429,438857,466286,493714,521143,548571,576000,603429,630857,658286,685714,713143,740571,768000,795429,822857,850286,877714,905143,932571,960000,987429,1014857,1042286,1069714,1097143,1124571,1152000,1179429,1206857,1234286,1261714,1289143,1316571,1344000,1371429,1398857,1426286,1453714,1481143,1508571,1536000,1563429,1590857,1618286,1645714,1673143,1700571,1728000,1755429,1782857,1810286,1837714,1865143,1892571,1920000,1947429,1974857,2002286,2029714,2057143,2084571,2112000,2139429,2166857,2194286,2221714,2249143,2276571,2304000,2331429,2358857,2386286,2413714,2441143,2468571,2496000,2523429,2550857,2578286,2605714,2633143,2660571,2688000,2715429,2742857,2770286,2797714,2825143,2852571,2880000,2907429,2934857,2962286,2989714,3017143,3044571,3072000,3099429,3126857,3154286,3181714,3209143,3236571,3264000,3291429,3318857,3346286,3373714,3401143,3428571,3456000,3483429,3510857,3538286,3565714,3593143,3620571,3648000,3675429,3702857,3730286,3757714,3785143,3812571,3840000,3867429,3894857,3922286,3949714,3977143,4004571,4032000,4059429,4086857,4114286,4141714,4169143,4196571,4224000,4251429,4278857,4306286,4333714,4361143,4388571,4416000,4443429,4470857,4498286,4525714,4553143,4580571,4608000,4635429,4662857,4690286,4717714,4745143,4772571,4800000,4827429,4854857,4882286,4909714,4937143,4964571,4992000,5019429,5046857,5074286,5101714,5129143,5156571,5184000,5211429,5238857,5266286,5293714,5321143,5348571,5376000,5403429,5430857,5458286,5485714,5513143,5540571,5568000,5595429,5622857,5650286,5677714,5705143,5732571,5760000,5787429,5814857,5842286,5869714,5897143,5924571,5952000,5979429,6006857,6034286,6061714,6089143,6116571,6144000,6171429,6198857,6226286,6253714,6281143,6308571,6336000,6363429,6390857,6418286,6445714,6473143,6500571,6528000,6555429,6582857,6610286,6637714,6665143,6692571,6720000,6747429,6774857,6802286,6829714,6857143,6884571,6912000,6939429,6966857,6994286,7021714,7049143,7076571,7104000,7131429,7158857,7186286,7213714,7241143,7268571,7296000,7323429,7350857,7378286,7405714,7433143,7460571,7488000,7515429,7542857,7570286,7597714,7625143,7652571,7680000,7707429,7734857,7762286,7789714,7817143,7844571,7872000,7899429,7926857,7954286,7981714,8009143,8036571,8064000,8091429,8118857,8146286,8173714,8201143,8228571,8256000,8283429,8310857,8338286,8365714,8393143,8420571,8448000,8475429,8502857,8530286,8557714,8585143,8612570],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":374,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":52,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/slomo/slomo_AudioPreview.ogg\"}",
@@ -662,7 +662,7 @@
     "tags": ["Main", "Eurovision"],
     "title": "SloMo",
     "urls": {
-      "jmcs://jd-contents/SloMo/SloMo_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/slomo_AudioPreview.ogg"
+      "jmcs://jd-contents/SloMo/SloMo_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/slomo_AudioPreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -671,15 +671,15 @@
   "Sunroof": {
     "artist": "Nicky Youre ft. dazy",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_coach_1.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_coach_1.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/8/83/Sunroof_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_coach_1.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_coach_1.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/sunroof_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1131678466274762952/sunroof_banner_bkg.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28249,55419,82588,109758,137815,164985,192921,220090,248096,275962,303131,330301,357470,384640,413203,440372,467542,494711,522647,550722,577891,605061,633589,660758,687928,716142,743312,770481,798713,826867,855011,882181,910047,937217,964386,992008,1019666,1046835,1074005,1101174,1128344,1155513,1183728,1210897,1238067,1265236,1293294,1318652,1347076,1374245,1401415,1428584],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":439,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":52,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/sunroof/sunroof_AudioPreview.ogg\"}",
@@ -712,7 +712,7 @@
     "tags": ["Main", "Next"],
     "title": "Sunroof",
     "urls": {
-      "jmcs://jd-contents/Sunroof/Sunroof_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/sunroof_Audio_Preview.ogg"
+      "jmcs://jd-contents/Sunroof/Sunroof_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/sunroof_Audio_Preview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -721,15 +721,15 @@
   "Toxic": {
     "artist": "Britney Spears",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/Toxic_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_coach_1.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/Toxic_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_coach_1.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/64/Toxic_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_coach_1.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_coach_1.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/toxic_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1102648084095311993/1129138163038826596/toxic_banner_map.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20139,40278,60418,80557,100696,120836,140975,161114,181254,201393,221532,241671,261811,281950,302089,322229,342368,362507,382647,402786,422925,443065,463204,483343,503483,523622,543761,563901,584040,604179,624319,644458,664597,684736,704876,725015,745154,765294,785433,805572,825712,845851,865990,886130,906269,926408,946548,966687,986826,1006966,1027105,1047244,1067384,1087523,1107662,1127802,1147941,1168080,1188219,1208359,1228498,1248637,1268777,1288916,1309055,1329195,1349334,1369473,1389613,1409752,1429891],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":0,\"endBeat\":481,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":71,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/toxic/toxic_AudioPreview.ogg\"}",
@@ -771,15 +771,15 @@
   "IKnewYouWereTrouble": {
     "artist": "Taylor Swift",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/IKnewYouWereTrouble_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_coach_1.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/IKnewYouWereTrouble_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_coach_1.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/e/ea/Iknewyouweretrouble_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_coach_1.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_coach_1.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/iknewyouweretrouble_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151893471137894440/IKnewYouWereTrouble_bannerbkg.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,37403,74805,112208,149610,187013,224416,261818,299221,336623,374026,411429,448831,486234,523636,561039,598442,635844,673247,710649,748052,785455,822857,860260,897662,935065,972468,1009870,1047273,1084675,1122078,1159481,1196883,1234286,1271688,1309091,1346494,1383896,1421299,1458701,1496104,1533506,1570909,1608312,1645714,1683117,1720519,1757922,1795325,1832727,1870130,1907532,1944935,1982338,2019740,2057143,2094545,2131948,2169351,2206753,2244156,2281558,2318961,2356364,2393766,2431169,2468571,2505974,2543377,2580779,2618182,2655584,2692987,2730390,2767792,2805195,2842597,2880000,2917403,2954805,2992208,3029610,3067013,3104416,3141818,3179221,3216623,3254026,3291429,3328831,3366234,3403636,3441039,3478442,3515844,3553247,3590649,3628052,3665455,3702857,3740260,3777662,3815065,3852468,3889870,3927273,3964675,4002078,4039481,4076883,4114286,4151688,4189091,4226494,4263896,4301299,4338701,4376104,4413506,4450909,4488312,4525714,4563117,4600519,4637922,4675325,4712727,4750130,4787532,4824935,4862338,4899740,4937143,4974545,5011948,5049351,5086753,5124156,5161558,5198961,5236364,5273766,5311169,5348571,5385974,5423377,5460779,5498182,5535584,5572987,5610390,5647792,5685195,5722597,5760000,5797403,5834805,5872208,5909610,5947013,5984416,6021818,6059221,6096623,6134026,6171429,6208831,6246234,6283636,6321039,6358442,6395844,6433247,6470649,6508052,6545455,6582857,6620260,6657662,6695065,6732468,6769870,6807273,6844675,6882078,6919481,6956883,6994286,7031688,7069091,7106494,7143896,7181299,7218701,7256104,7293506,7330909,7368312,7405714,7443117,7480519,7517922,7555325,7592727,7630130,7667532,7704935,7742338,7779740,7817143,7854545,7891948,7929351,7966753,8004156,8041558,8078961,8116364,8153766,8191169,8228571,8265974,8303377,8340779,8378182,8415584,8452987,8490390,8527792,8565195,8602597,8640000,8677403,8714805,8752208,8789610,8827013,8864416,8901818,8939221,8976623,9014026,9051429,9088831,9126234,9163636,9201039,9238442,9275844,9313247,9350649,9388052,9425455,9462857,9500260,9537662,9575065,9612468,9649870,9687273,9724675,9762078,9799481,9836883,9874286,9911688,9949091,9986494,10023896,10061299,10098701,10136104,10173506,10210909,10248312,10285714,10323117,10360519,10397922,10435325,10472727,10510130,10547532,10584934],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-16,\"endBeat\":283,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":263,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/iknewyouweretrouble/iknewyouweretrouble_AudioPreview.ogg\"}",
@@ -812,7 +812,7 @@
     "tags": ["Main"],
     "title": "I Knew You Were Trouble (Taylor's Version)",
     "urls": {
-      "jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/IKnewYouWereTrouble_audiopreview.ogg"
+      "jmcs://jd-contents/IKnewYouWereTrouble/IKnewYouWereTrouble_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/IKnewYouWereTrouble_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -821,15 +821,15 @@
   "Telephone": {
     "artist": "Lady Gaga ft. Beyoncé",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/Telephone_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_coach_1.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/Telephone_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_coach_1.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/73/Telephone_title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_coach_1.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_coach_1.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/telephone_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151893732208156672/Telephone_bannerbkg.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23607,47213,70820,94426,118033,141639,165246,188852,212459,236066,259672,283279,306885,330492,354098,377705,401311,424918,448525,472131,495738,519344,542951,566557,590164,613770,637377,660984,684590,708197,731803,755410,779016,802623,826230,849836,873443,897049,920656,944262,967869,991475,1015082,1038689,1062295,1085902,1109508,1133115,1156721,1180328,1203934,1227541,1251148,1274754,1298361,1321967,1345574,1369180,1392787,1416393,1440000,1463607,1487213,1510820,1534426,1558033,1581639,1605246,1628852,1652459,1676066,1699672,1723279,1746885,1770492,1794098,1817705,1841311,1864918,1888525,1912131,1935738,1959344,1982951,2006557,2030164,2053770,2077377,2100984,2124590,2148197,2171803,2195410,2219016,2242623,2266230,2289836,2313443,2337049,2360656,2384262,2407869,2431475,2455082,2478689,2502295,2525902,2549508,2573115,2596721,2620328,2643934,2667541,2691148,2714754,2738361,2761967,2785574,2809180,2832787,2856393,2880000,2903607,2927213,2950820,2974426,2998033,3021639,3045246,3068852,3092459,3116066,3139672,3163279,3186885,3210492,3234098,3257705,3281311,3304918,3328525,3352131,3375738,3399344,3422951,3446557,3470164,3493770,3517377,3540984,3564590,3588197,3611803,3635410,3659016,3682623,3706230,3729836,3753443,3777049,3800656,3824262,3847869,3871475,3895082,3918689,3942295,3965902,3989508,4013115,4036721,4060328,4083934,4107541,4131148,4154754,4178361,4201967,4225574,4249180,4272787,4296393,4320000,4343607,4367213,4390820,4414426,4438033,4461639,4485246,4508852,4532459,4556066,4579672,4603279,4626885,4650492,4674098,4697705,4721311,4744918,4768525,4792131,4815738,4839344,4862951,4886557,4910164,4933770,4957377,4980984,5004590,5028197,5051803,5075410,5099016,5122623,5146230,5169836,5193443,5217049,5240656,5264262,5287869,5311475,5335082,5358689,5382295,5405902,5429508,5453115,5476721,5500328,5523934,5547541,5571148,5594754,5618361,5641967,5665574,5689180,5712787,5736393,5760000,5783607,5807213,5830820,5854426,5878033,5901639,5925246,5948852,5972459,5996066,6019672,6043279,6066885,6090492,6114098,6137705,6161311,6184918,6208525,6232131,6255738,6279344,6302951,6326557,6350164,6373770,6397377,6420984,6444590,6468197,6491803,6515410,6539016,6562623,6586230,6609836,6633443,6657049,6680656,6704262,6727869,6751475,6775082,6798689,6822295,6845902,6869508,6893115,6916721,6940328,6963934,6987541,7011148,7034754,7058361,7081967,7105574,7129180,7152787,7176393,7200000,7223607,7247213,7270820,7294426,7318033,7341639,7365246,7388852,7412459,7436066,7459672,7483279,7506885,7530492,7554098,7577705,7601311,7624918,7648525,7672131,7695738,7719344,7742951,7766557,7790164,7813770,7837377,7860984,7884590,7908197,7931803,7955410,7979016,8002623,8026230,8049836,8073443,8097049,8120656,8144262,8167869,8191475,8215082,8238689,8262295,8285902,8309508,8333115,8356721,8380328,8403934,8427541,8451148,8474754,8498361,8521967,8545574,8569180,8592787,8616393,8640000,8663607,8687213,8710820,8734426,8758033,8781639,8805246,8828852,8852459,8876066,8899672,8923279,8946885,8970492,8994098,9017705,9041311,9064918,9088525,9112131,9135738,9159344,9182951,9206557,9230164,9253770,9277377,9300984,9324590,9348197,9371803,9395410,9419016,9442623,9466230,9489836,9513443,9537049,9560656,9584262,9607869,9631475,9655082,9678689,9702295,9725902,9749508,9773115,9796721,9820328,9843934,9867541,9891148,9914754,9938361,9961967,9985574,10009180,10032787,10056393,10080000,10103607,10127213,10150820,10174426,10198033,10221639,10245246,10268852,10292459,10316066,10339672,10363279,10386885,10410492,10434098,10457705,10481311,10504918,10528525,10552131,10575737],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":450,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":160,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/telephone/telephone_AudioPreview.ogg\"}",
@@ -862,7 +862,7 @@
     "tags": ["Main"],
     "title": "Telephone",
     "urls": {
-      "jmcs://jd-contents/Telephone/Telephone_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Telephone_audiopreview.ogg"
+      "jmcs://jd-contents/Telephone/Telephone_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Telephone_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -871,17 +871,17 @@
   "TelephoneALT": {
     "artist": "Lady Gaga ft. Beyoncé",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/TelephoneALT_banner_bkg.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/TelephoneALT_banner_bkg.png",
       "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/d/d6/Telephonealt_coach_1.png",
       "coach2ImageUrl": "https://static.wikia.nocookie.net/justdance/images/c/cb/Telephonealt_coach_2.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/telephonealt_cover_generic.png",
-      "cover_1024ImageUrl": "hhttps://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/telephonealt_cover_generic.png",
-      "cover_smallImageUrl": "hhttps://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/telephonealt_cover_generic.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/telephonealt_cover_generic.png",
+      "cover_1024ImageUrl": "hhttps://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/telephonealt_cover_generic.png",
+      "cover_smallImageUrl": "hhttps://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/telephonealt_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/0/05/Telephonealt_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/telephonealt_cover_albumcoach.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/telephonealt_cover_albumcoach.png",
       "phoneCoach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/d/d6/Telephonealt_coach_1.png",
       "phoneCoach2ImageUrl": "https://static.wikia.nocookie.net/justdance/images/c/cb/Telephonealt_coach_2.png",
-      "phoneCoverImageUrl": "hhttps://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/telephonealt_cover_generic.png",
+      "phoneCoverImageUrl": "hhttps://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/telephonealt_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151897829061701662/TelephoneALT_Banner.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23607,47213,70820,94426,118033,141639,165246,188852,212459,236066,259672,283279,306885,330492,354098,377705,401311,424918,448525,472131,495738,519344,542951,566557,590164,613770,637377,660984,684590,708197,731803,755410,779016,802623,826230,849836,873443,897049,920656,944262,967869,991475,1015082,1038689,1062295,1085902,1109508,1133115,1156721,1180328,1203934,1227541,1251148,1274754,1298361,1321967,1345574,1369180,1392787,1416393,1440000,1463607,1487213,1510820,1534426,1558033,1581639,1605246,1628852,1652459,1676066,1699672,1723279,1746885,1770492,1794098,1817705,1841311,1864918,1888525,1912131,1935738,1959344,1982951,2006557,2030164,2053770,2077377,2100984,2124590,2148197,2171803,2195410,2219016,2242623,2266230,2289836,2313443,2337049,2360656,2384262,2407869,2431475,2455082,2478689,2502295,2525902,2549508,2573115,2596721,2620328,2643934,2667541,2691148,2714754,2738361,2761967,2785574,2809180,2832787,2856393,2880000,2903607,2927213,2950820,2974426,2998033,3021639,3045246,3068852,3092459,3116066,3139672,3163279,3186885,3210492,3234098,3257705,3281311,3304918,3328525,3352131,3375738,3399344,3422951,3446557,3470164,3493770,3517377,3540984,3564590,3588197,3611803,3635410,3659016,3682623,3706230,3729836,3753443,3777049,3800656,3824262,3847869,3871475,3895082,3918689,3942295,3965902,3989508,4013115,4036721,4060328,4083934,4107541,4131148,4154754,4178361,4201967,4225574,4249180,4272787,4296393,4320000,4343607,4367213,4390820,4414426,4438033,4461639,4485246,4508852,4532459,4556066,4579672,4603279,4626885,4650492,4674098,4697705,4721311,4744918,4768525,4792131,4815738,4839344,4862951,4886557,4910164,4933770,4957377,4980984,5004590,5028197,5051803,5075410,5099016,5122623,5146230,5169836,5193443,5217049,5240656,5264262,5287869,5311475,5335082,5358689,5382295,5405902,5429508,5453115,5476721,5500328,5523934,5547541,5571148,5594754,5618361,5641967,5665574,5689180,5712787,5736393,5760000,5783607,5807213,5830820,5854426,5878033,5901639,5925246,5948852,5972459,5996066,6019672,6043279,6066885,6090492,6114098,6137705,6161311,6184918,6208525,6232131,6255738,6279344,6302951,6326557,6350164,6373770,6397377,6420984,6444590,6468197,6491803,6515410,6539016,6562623,6586230,6609836,6633443,6657049,6680656,6704262,6727869,6751475,6775082,6798689,6822295,6845902,6869508,6893115,6916721,6940328,6963934,6987541,7011148,7034754,7058361,7081967,7105574,7129180,7152787,7176393,7200000,7223607,7247213,7270820,7294426,7318033,7341639,7365246,7388852,7412459,7436066,7459672,7483279,7506885,7530492,7554098,7577705,7601311,7624918,7648525,7672131,7695738,7719344,7742951,7766557,7790164,7813770,7837377,7860984,7884590,7908197,7931803,7955410,7979016,8002623,8026230,8049836,8073443,8097049,8120656,8144262,8167869,8191475,8215082,8238689,8262295,8285902,8309508,8333115,8356721,8380328,8403934,8427541,8451148,8474754,8498361,8521967,8545574,8569180,8592787,8616393,8640000,8663607,8687213,8710820,8734426,8758033,8781639,8805246,8828852,8852459,8876066,8899672,8923279,8946885,8970492,8994098,9017705,9041311,9064918,9088525,9112131,9135738,9159344,9182951,9206557,9230164,9253770,9277377,9300984,9324590,9348197,9371803,9395410,9419016,9442623,9466230,9489836,9513443,9537049,9560656,9584262,9607869,9631475,9655082,9678689,9702295,9725902,9749508,9773115,9796721,9820328,9843934,9867541,9891148,9914754,9938361,9961967,9985574,10009180,10032787,10056393,10080000,10103607,10127213,10150820,10174426,10198033,10221639,10245246,10268852,10292459,10316066,10339672,10363279,10386885,10410492,10434098,10457705,10481311,10504918,10528525,10552131,10575737],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":450,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":160,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/telephonealt/telephonealt_AudioPreview.ogg\"}",
@@ -914,7 +914,7 @@
     "tags": ["Main"],
     "title": "Telephone",
     "urls": {
-      "jmcs://jd-contents/TelephoneALT/TelephoneALT_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Telephone_audiopreview.ogg"
+      "jmcs://jd-contents/TelephoneALT/TelephoneALT_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Telephone_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -923,14 +923,14 @@
   "GoodOnes": {
     "artist": "Charli XCX",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/GoodOnes_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/goodones_coach_1.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/GoodOnes_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/goodones_coach_1.png",
       "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/2/29/Goodones_jdc_cover_generic.png",
       "cover_1024ImageUrl": "https://static.wikia.nocookie.net/justdance/images/2/29/Goodones_jdc_cover_generic.png",
       "cover_smallImageUrl": "https://static.wikia.nocookie.net/justdance/images/2/29/Goodones_jdc_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/8/8b/Goodones_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/goodones_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/goodones_coach_1.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/goodones_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/goodones_coach_1.png",
       "phoneCoverImageUrl": "https://static.wikia.nocookie.net/justdance/images/2/29/Goodones_jdc_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151966412961763449/GoodOnes_bannerbkg.png"
     },
@@ -973,7 +973,7 @@
   "CantStopTheFeeling": {
     "artist": "Justin Timberlake",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/CantStopTheFeeling_banner_bkg.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/CantStopTheFeeling_banner_bkg.png",
       "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/e/e6/Cantstopthefeeling_coach_1.png",
       "coach2ImageUrl": "https://static.wikia.nocookie.net/justdance/images/9/9a/Cantstopthefeeling_coach_2.png",
       "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/1/11/Cantstopthefeeling_jdc_cover_generic.png",
@@ -1025,7 +1025,7 @@
   "CantStopTheFeelingALT": {
     "artist": "Justin Timberlake",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/CantTheFeelingStopALT_banner_bkg.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/CantTheFeelingStopALT_banner_bkg.png",
       "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/1/1c/Cantstopthefeelingalt_jdc_coach_1.png",
       "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/a/a1/Cantstopthefeelingalt_jdc_cover_generic.png",
       "cover_1024ImageUrl": "https://static.wikia.nocookie.net/justdance/images/a/a1/Cantstopthefeelingalt_jdc_cover_generic.png",
@@ -1066,7 +1066,7 @@
     "tags": ["Main"],
     "title": "CAN'T STOP THE FEELING!",
     "urls": {
-      "jmcs://jd-contents/CantStopTheFeelingALT/CantStopTheFeelingALT_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/CantStopTheFeelingALT_audiopreview.ogg"
+      "jmcs://jd-contents/CantStopTheFeelingALT/CantStopTheFeelingALT_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/CantStopTheFeelingALT_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -1075,15 +1075,15 @@
   "MillionDollarBaby": {
     "artist": "Ava Max",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/MillionDollarBaby_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_coach_1",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/MillionDollarBaby_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_coach_1",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/4/40/Milliondollarbaby_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_coach_1",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_coach_1",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/milliondollarbaby_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151965884764667904/MillionDollarBaby_bannerbkg.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21654,43308,64962,86617,108271,129925,151579,173233,194887,216541,238195,259850,281504,303158,324812,346466,368120,389774,411429,433083,454737,476391,498045,519699,541353,563008,584662,606316,627970,649624,671278,692932,714586,736241,757895,779549,801203,822857,844511,866165,887820,909474,931128,952782,974436,996090,1017744,1039398,1061053,1082707,1104361,1126015,1147669,1169323,1190977,1212632,1234286,1255940,1277594,1299248,1320902,1342556,1364211,1385865,1407519,1429173,1450827,1472481,1494135,1515789,1537444,1559098,1580752,1602406,1624060,1645714,1667368,1689023,1710677,1732331,1753985,1775639,1797293,1818947,1840602,1862256,1883910,1905564,1927218,1948872,1970526,1992180,2013835,2035489,2057143,2078797,2100451,2122105,2143759,2165414,2187068,2208722,2230376,2252030,2273684,2295338,2316992,2338647,2360301,2381955,2403609,2425263,2446917,2468571,2490226,2511880,2533534,2555188,2576842,2598496,2620150,2641805,2663459,2685113,2706767,2728421,2750075,2771729,2793383,2815038,2836692,2858346,2880000,2901654,2923308,2944962,2966617,2988271,3009925,3031579,3053233,3074887,3096541,3118195,3139850,3161504,3183158,3204812,3226466,3248120,3269774,3291429,3313083,3334737,3356391,3378045,3399699,3421353,3443008,3464662,3486316,3507970,3529624,3551278,3572932,3594586,3616241,3637895,3659549,3681203,3702857,3724511,3746165,3767820,3789474,3811128,3832782,3854436,3876090,3897744,3919398,3941053,3962707,3984361,4006015,4027669,4049323,4070977,4092632,4114286,4135940,4157594,4179248,4200902,4222556,4244211,4265865,4287519,4309173,4330827,4352481,4374135,4395789,4417444,4439098,4460752,4482406,4504060,4525714,4547368,4569023,4590677,4612331,4633985,4655639,4677293,4698947,4720602,4742256,4763910,4785564,4807218,4828872,4850526,4872180,4893835,4915489,4937143,4958797,4980451,5002105,5023759,5045414,5067068,5088722,5110376,5132030,5153684,5175338,5196992,5218647,5240301,5261955,5283609,5305263,5326917,5348571,5370226,5391880,5413534,5435188,5456842,5478496,5500150,5521805,5543459,5565113,5586767,5608421,5630075,5651729,5673383,5695038,5716692,5738346,5760000,5781654,5803308,5824962,5846617,5868271,5889925,5911579,5933233,5954887,5976541,5998195,6019850,6041504,6063158,6084812,6106466,6128120,6149774,6171429,6193083,6214737,6236391,6258045,6279699,6301353,6323008,6344662,6366316,6387970,6409624,6431278,6452932,6474586,6496241,6517895,6539549,6561203,6582857,6604511,6626165,6647820,6669474,6691128,6712782,6734436,6756090,6777744,6799398,6821053,6842707,6864361,6886015,6907669,6929323,6950977,6972632,6994286,7015940,7037594,7059248,7080902,7102556,7124211,7145865,7167519,7189173,7210827,7232481,7254135,7275789,7297444,7319098,7340752,7362406,7384060,7405714,7427368,7449023,7470677,7492331,7513985,7535639,7557293,7578947,7600602,7622256,7643910,7665564,7687218,7708872,7730526,7752180,7773835,7795489,7817143,7838797,7860451,7882105,7903759,7925414,7947068,7968722,7990376,8012030,8033684,8055338,8076992,8098647,8120301,8141955,8163609,8185263,8206917,8228571,8250226,8271880,8293534,8315188,8336842,8358496,8380150,8401805,8423459,8445113,8466767,8488421,8510075,8531729,8553383,8575038,8596692,8618346,8640000,8661654,8683308,8704962,8726617,8748271,8769925,8791579,8813232],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-19,\"endBeat\":407,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":208,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/milliondollarbaby/milliondollarbaby_AudioPreview.ogg\"}",
@@ -1116,7 +1116,7 @@
     "tags": ["Main"],
     "title": "Million Dollar Baby",
     "urls": {
-      "jmcs://jd-contents/MillionDollarBaby/MillionDollarBaby_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/MillionDollarBaby_audiopreview.ogg"
+      "jmcs://jd-contents/MillionDollarBaby/MillionDollarBaby_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/MillionDollarBaby_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -1125,15 +1125,15 @@
   "Numb": {
     "artist": "Linkin Park",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/Numb_banner+bkg.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/Numb_banner+bkg.png",
       "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Numb_coach_1.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/numb_cover_generic.png",
-      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/numb_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/numb_cover_generic.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/numb_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/numb_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/numb_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/9/97/Numb_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/numb_cover_albumcoach.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/numb_cover_albumcoach.png",
       "phoneCoach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Numb_coach_1.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/numb_cover_generic.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/numb_cover_generic.png",
       "map_bkgImageUrl": "https://cdn.discordapp.com/attachments/1105945138196385922/1151965770000113876/Numb_bannerbkg.png"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26175,52349,78524,104699,130873,157048,183223,209397,235572,261747,287921,314096,340271,366446,392620,418795,444970,471144,497319,523494,549668,575843,602018,628192,654367,680542,706716,732891,759066,785240,811415,837590,863764,889939,916114,942288,968463,994638,1020813,1046987,1073162,1099337,1125511,1151686,1177861,1204035,1230210,1256385,1282559,1308734,1334909,1361083,1387258,1413433,1439607,1465782,1491957,1518131,1544306,1570481,1596655,1622830,1649005,1675179,1701354,1727529,1753704,1779878,1806053,1832228,1858402,1884577,1910752,1936926,1963101,1989276,2015450,2041625,2067800,2093974,2120149,2146324,2172498,2198673,2224848,2251022,2277197,2303372,2329546,2355721,2381896,2408071,2434245,2460420,2486595,2512769,2538944,2565119,2591293,2617468,2643643,2669817,2695992,2722167,2748341,2774516,2800691,2826865,2853040,2879215,2905389,2931564,2957739,2983913,3010088,3036263,3062438,3088612,3114787,3140962,3167136,3193311,3219486,3245660,3271835,3298010,3324184,3350359,3376534,3402708,3428883,3455058,3481232,3507407,3533582,3559756,3585931,3612106,3638280,3664455,3690630,3716805,3742979,3769154,3795329,3821503,3847678,3873853,3900027,3926202,3952377,3978551,4004726,4030901,4057075,4083250,4109425,4135599,4161774,4187949,4214123,4240298,4266473,4292647,4318822,4344997,4371171,4397346,4423521,4449696,4475870,4502045,4528220,4554394,4580569,4606744,4632918,4659093,4685268,4711442,4737617,4763792,4789966,4816141,4842316,4868490,4894665,4920840,4947014,4973189,4999364,5025538,5051713,5077888,5104063,5130237,5156412,5182587,5208761,5234936,5261111,5287285,5313460,5339635,5365809,5391984,5418159,5444333,5470508,5496683,5522857,5549032,5575207,5601381,5627556,5653731,5679905,5706080,5732255,5758430,5784604,5810779,5836954,5863128,5889303,5915478,5941652,5967827,5994002,6020176,6046351,6072526,6098700,6124875,6151050,6177224,6203399,6229574,6255748,6281923,6308098,6334272,6360447,6386622,6412797,6438971,6465146,6491321,6517495,6543670,6569845,6596019,6622194,6648369,6674543,6700718,6726893,6753067,6779242,6805417,6831591,6857766,6883941,6910115,6936290,6962465,6988639,7014814,7040989,7067164,7093338,7119513,7145688,7171862,7198037,7224212,7250386,7276561,7302736,7328910,7355085,7381260,7407434,7433609,7459784,7485958,7512133,7538308,7564482,7590657,7616832,7643006,7669181,7695356,7721530,7747705,7773880,7800055,7826229,7852404,7878579,7904753,7930928,7957103,7983277,8009452,8035627,8061801,8087976,8114151,8140325,8166500,8192675,8218849,8245024,8271199,8297373,8323548,8349723,8375897,8402072,8428247,8454422,8480596,8506771,8532946,8559120,8585295,8611470,8637644,8663819,8689994,8716168,8742343,8768518,8794692,8820867,8847042,8873216,8899391,8925565],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":345,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":208,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/numb/numb_AudioPreview.ogg\"}",
@@ -1166,7 +1166,7 @@
     "tags": ["Main"],
     "title": "Numb",
     "urls": {
-      "jmcs://jd-contents/Numb/Numb_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Numb_audiopreview.ogg"
+      "jmcs://jd-contents/Numb/Numb_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Numb_audiopreview.ogg"
     },
     "searchTags": [],
     "searchTagsLocIds": [],
@@ -1175,16 +1175,16 @@
   "GiveThatWolf": {
     "artist": "Subwoolfer",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/GiveThatWolf_banner_bkg.png",
-      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_coach_1.png",
-      "coach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_coach_2.png",
-      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_cover_generic.png",
-      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_cover_generic.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/GiveThatWolf_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_coach_1.png",
+      "coach2ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_coach_2.png",
+      "coverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_cover_generic.png",
       "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/1/14/GiveThatWolf_Title.png",
-      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_coach_1.png",
-      "phoneCoach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_coach_2.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_coach_1.png",
+      "phoneCoach2ImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_coach_2.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/givethatwolf_cover_generic.png",
       "map_bkgImageUrl": ""
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23229,46458,69686,92915,116144,139373,162602,185830,209059,232288,255517,278746,301974,325203,348432,371661,394890,418118,441347,464576,487805,511034,534262,557491,580720,603949,627178,650407,673635,696864,720093,743322,766551,789779,813008,836237,859466,882695,905923,929152,952381,975610,998839,1022067,1045296,1068525,1091754,1114983,1138211,1161440,1184669,1207898,1231127,1254355,1277584,1300813,1324042,1347271,1370499,1393728,1416957],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":-4,\"endBeat\":358,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":-2.124,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/givethatwolf/givethatwolf_AudioPreview.ogg\"}",
@@ -1216,14 +1216,14 @@
     "tags": ["Main"],
     "title": "Give That Wolf A Banana",
     "urls": {
-      "jmcs://jd-contents/GiveThatWolf/GiveThatWolf_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/GiveThatWolf_audiopreview.ogg"
+      "jmcs://jd-contents/GiveThatWolf/GiveThatWolf_AudioPreview.ogg": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/GiveThatWolf_audiopreview.ogg"
     },
     "serverChangelist": 504440
   },
   "Stay": {
     "artist": "The Kid LAROI & Justin Bieber",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/Stay_banner_bkg.png",
+      "banner_bkgImageUrl": "https://cdn.glitch.global/49f27db2-5f8d-4262-a485-610da589cdbf/Stay_banner_bkg.png",
       "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/5/51/Stay_coach_1.png",
       "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/1/1a/Stay_jdc_cover_generic.png",
       "cover_1024ImageUrl": "https://static.wikia.nocookie.net/justdance/images/1/1a/Stay_jdc_cover_generic.png",
