@@ -3,10 +3,10 @@
   "duration": 300,
   "changelist": 280634,
   "urls": {
-    "jmcs://jd-contents/CalmDown/CalmDown_ULTRA.webm": "https://cdn.glitch.me/e092a75c-c5cd-46e2-95a4-4e4eac406eee/34534543CalmDown_ULTRA.webm",
-    "jmcs://jd-contents/CalmDown/CalmDown_MID.webm": "https://cdn.glitch.me/e092a75c-c5cd-46e2-95a4-4e4eac406eee/34534543CalmDown_MID.webm",
-    "jmcs://jd-contents/CalmDown/CalmDown_LOW.webm": "https://cdn.glitch.me/e092a75c-c5cd-46e2-95a4-4e4eac406eee/34534543CalmDown_LOW.webm",
-    "jmcs://jd-contents/CalmDown/CalmDown_HIGH.webm": "https://cdn.glitch.me/e092a75c-c5cd-46e2-95a4-4e4eac406eee/34534543CalmDown_HIGH.webm",
-    "jmcs://jd-contents/CalmDown/CalmDown.ogg": "https://cdn.discordapp.com/attachments/682348839893467156/1129943174492737587/CalmDown_2.ogg"
+    "jmcs://jd-contents/CalmDown/CalmDown_ULTRA.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/CalmDown_ULTRA.webm",
+    "jmcs://jd-contents/CalmDown/CalmDown_MID.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/CalmDown_MID.webm",
+    "jmcs://jd-contents/CalmDown/CalmDown_LOW.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/CalmDown_LOW.webm",
+    "jmcs://jd-contents/CalmDown/CalmDown_HIGH.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/CalmDown_HIGH.webm",
+    "jmcs://jd-contents/CalmDown/CalmDown.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/CalmDown.ogg"
   }
 }

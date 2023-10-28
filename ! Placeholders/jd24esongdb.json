@@ -2825,3 +2825,53 @@
     "searchTagsLocIds": [],
     "serverChangelist": 0
   },
+  "SayMyNameALT": {
+    "artist": "ATEEZ",
+    "assets": {
+      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/SayMyNameALT_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/saymynamealt_coach_1.png",
+      "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/saymynamealt_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/saymynamealt_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/saymynamealt_cover_generic.png",
+      "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
+      "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/saymynamealt_cover_albumcoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/saymynamealt_coach_1.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/saymynamealt_cover_generic.png",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,37151,74255,111407,148559,185663,222815,259967,297071,334223,371375,408527,445679,482831,520079,557279,594527,631775,668975,706223,743471,780719,818543,856366,894190,932014,969310,1006654,1043950,1081294,1119166,1157038,1194862,1232734,1270702,1308670,1346590,1384558,1422142,1459678,1497262,1534846,1572430,1610062,1647646,1685277,1722861,1760445,1798077,1835661,1873053,1910397,1947741,1985133,2022621,2060109,2097597,2135085,2172573,2210061,2247501,2284989,2322573,2360109,2397693,2435229,2472813,2510348,2547932,2585468,2623052,2660588,2698172,2735708,2773292,2810876,2848412,2885996,2923868,2961740,2999564,3037436,3074924,3112460,3149948,3187484,3225548,3263612,3301676,3339739,3377275,3414763,3452299,3489787,3527851,3565915,3603979,3642043,3680107,3718171,3756235,3794299,3832363,3870427,3908491,3946555,3984523,4022491,4060459,4098427,4135963,4173498,4211034,4248570,4286202,4323882,4361562,4399194,4436682,4474170,4511658,4549194,4586682,4624170,4661658,4699146,4736826,4774506,4812186,4849818,4887498,4925178,4962858,5000537,5037977,5075465,5112905,5150345,5187833,5225273,5262713,5300153,5337641,5375081,5412521,5449961,5487449,5524889,5562329,5599817,5637785,5675801,5713769,5751785,5789369,5826905,5864488,5902072,5939800,5977576,6015352,6053128,6090760,6128440,6166120,6203800,6241480,6279160,6316840,6354520,6392296,6430072,6467896,6505672,6543448,6581224,6619000,6656776,6694119,6731511,6768855,6806199,6844695,6883191,6921639,6960135,6997911,7035687,7073463,7111239,7149015,7186791,7224567,7262295,7300263,7338231,7376199,7414167,7453047,7490775,7528454,7566134,7603958,7641782,7679606,7717382,7755302,7793270,7831190,7869110,7908086,7947062,7986038,8025014,8062982,8100902,8138870,8176838,8214710,8252534,8290406,8328278,8365669,8403109,8440501,8477893,8516245,8554549,8592901,8631253,8669365,8707525,8745685,8783797,8821909,8860021,8898085,8936197,8974309,9012421,9050485,9088597,9126517,9164485,9202404,9240324,9278676,9317028,9355332,9393684,9431700,9469716,9507684,9545700,9583332,9620916,9658500,9696132,9733812,9771492,9809220,9846900,9884580,9922308,9959988,9997668,10035347,10072979,10110611,10148291,10186163,10223987,10261859,10299731,10337411,10375091,10412723,10450403,10488851,10527299,10565747,10604195,10641923,10679651,10717379,10755059,10792787,10830515,10868242,10905970,10943794,10981618,11019442,11057266,11095522,11133778,11172034,11210290,11248210,11286130,11324050,11361970,11400370,11438770,11477170,11515570,11553250,11590930,11628658,11666338],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":5,\"beats\":4}],\"startBeat\":0,\"endBeat\":309,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/saymynamealt/saymynamealt_AudioPreview.ogg\"}",
+    "coachCount": 1,
+    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "customTypeNameId": 0,
+    "difficulty": 1,
+    "doubleScoringType": -1,
+    "jdmAttributes": [],
+    "lyricsColor": "FF0000FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 0,
+    "mapName": "SayMyNameALT",
+    "mode": 6,
+    "originalJDVersion": 2024,
+    "packages": {
+      "mapContent": "SayMyNameALT_mapContent"
+    },
+    "parentMapName": "SayMyName",
+    "skuIds": ["jdcmos-ww-all"],
+    "songColors": {
+      "songColor_1A": "444444FF",
+      "songColor_1B": "111111FF",
+      "songColor_2A": "AAAAAAFF",
+      "songColor_2B": "777777FF"
+    },
+    "status": 3,
+    "sweatDifficulty": 1,
+    "tags": ["Main"],
+    "title": "Say My Name",
+    "urls": {
+      "jmcs://jd-contents/SayMyNameALT/SayMyNameALT_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SayMyName_audiopreview.ogg"
+    },
+    "searchTags": [],
+    "searchTagsLocIds": [],
+    "serverChangelist": 0
+},

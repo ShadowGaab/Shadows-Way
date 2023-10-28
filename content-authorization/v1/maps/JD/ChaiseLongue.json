@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/ChaiseLongue/ChaiseLongue_ULTRA.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/ChaiseLongue_ULTRA.webm",
+    "jmcs://jd-contents/ChaiseLongue/ChaiseLongue_MID.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/ChaiseLongue_MID.webm",
+    "jmcs://jd-contents/ChaiseLongue/ChaiseLongue_LOW.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/ChaiseLongue_LOW.webm",
+    "jmcs://jd-contents/ChaiseLongue/ChaiseLongue_HIGH.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/ChaiseLongue_HIGH.webm",
+    "jmcs://jd-contents/ChaiseLongue/ChaiseLongue.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/ChaiseLongue.ogg"
+  }
+}

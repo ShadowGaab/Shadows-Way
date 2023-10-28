@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/Versailles/Versailles_ULTRA.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Versailles_ULTRA.webm",
+    "jmcs://jd-contents/Versailles/Versailles_MID.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Versailles_MID.webm",
+    "jmcs://jd-contents/Versailles/Versailles_LOW.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Versailles_LOW.webm",
+    "jmcs://jd-contents/Versailles/Versailles_HIGH.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Versailles_HIGH.webm",
+    "jmcs://jd-contents/Versailles/Versailles.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Versailles.ogg"
+  }
+}

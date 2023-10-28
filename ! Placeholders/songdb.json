@@ -226,53 +226,55 @@
 
 
 
-  "WatchOutForThis": {
-    "artist": "Major Lazer ft. Busy Signal, The Flexican and FS Green",
-    "assets": {
-      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
-      "coach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/7e/Placeholder_coach_1_big.png",
-      "coverImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/70/Placeholder_song.jpg",
-      "cover_1024ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/70/Placeholder_song.jpg",
-      "cover_smallImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/70/Placeholder_song.jpg",
-      "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
-      "expandCoachImageUrl": "https://static.wikia.nocookie.net/justdance/images/b/b6/Blameitalt_cover_albumcoach.png",
-      "phoneCoach1ImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/7e/Placeholder_coach_1_big.png",
-      "phoneCoverImageUrl": "https://static.wikia.nocookie.net/justdance/images/7/70/Placeholder_song.jpg",
-      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
-    },
-    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26667,53333,80000,106667,133333,160000,186667,213333,240000,266667,293333,320000,346667,373333,400000,426667,453333,480000,506667,533333,560000,586667,613333,640000,666667,693333,720000,746667,773333,800000,826667,853333,880000,906667,933333,960000,986667,1013333,1040000,1066667,1093333,1120000,1146667,1173333,1200000,1226667,1253333,1280000,1306667,1333333,1360000,1386667,1413333,1440000,1466667,1493333,1520000,1546667,1573333,1600000,1626667,1653333,1680000,1706667,1733333,1760000,1786667,1813333,1840000,1866667,1893333,1920000,1946667,1973333,2000000,2026667,2053333,2080000,2106667,2133333,2160000,2186667,2213333,2240000,2266667,2293333,2320000,2346667,2373333,2400000,2426667,2453333,2480000,2506667,2533333,2560000,2586667,2613333,2640000,2666667,2693333,2720000,2746667,2773333,2800000,2826667,2853333,2880000,2906667,2933333,2960000,2986667,3013333,3040000,3066667,3093333,3120000,3146667,3173333,3200000,3226667,3253333,3280000,3306667,3333333,3360000,3386667,3413333,3440000,3466667,3493333,3520000,3546667,3573333,3600000,3626667,3653333,3680000,3706667,3733333,3760000,3786667,3813333,3840000,3866667,3893333,3920000,3946667,3973333,4000000,4026667,4053333,4080000,4106667,4133333,4160000,4186667,4213333,4240000,4266667,4293333,4320000,4346667,4373333,4400000,4426667,4453333,4480000,4506667,4533333,4560000,4586667,4613333,4640000,4666667,4693333,4720000,4746667,4773333,4800000,4826667,4853333,4880000,4906667,4933333,4960000,4986667,5013333,5040000,5066667,5093333,5120000,5146667,5173333,5200000,5226667,5253333,5280000,5306667,5333333,5360000,5386667,5413333,5440000,5466667,5493333,5520000,5546667,5573333,5600000,5626667,5653333,5680000,5706667,5733333,5760000,5786667,5813333,5840000,5866667,5893333,5920000,5946667,5973333,6000000,6026667,6053333,6080000,6106667,6133333,6160000,6186667,6213333,6240000,6266667,6293333,6320000,6346667,6373333,6400000,6426667,6453333,6480000,6506667,6533333,6560000,6586667,6613333,6640000,6666667,6693333,6720000,6746667,6773333,6800000,6826667,6853333,6880000,6906667,6933333,6960000,6986667,7013333,7040000,7066667,7093333,7120000,7146667,7173333,7200000,7226667,7253333,7280000,7306667,7333333,7360000,7386667,7413333,7440000,7466667,7493333,7520000,7546667,7573333,7600000,7626667,7653333,7680000,7706667,7733333,7760000,7786667,7813333,7840000,7866667,7893333,7920000,7946667,7973333,8000000,8026667,8053333,8080000,8106667,8133333,8160000,8186667,8213333,8240000,8266667,8293333,8320000,8346667,8373333,8400000,8426667,8453333,8480000,8506667,8533333,8560000,8586667,8613333,8640000,8666667,8693333,8720000,8746667,8773333,8800000,8826667,8853333,8880000,8906667,8933333,8960000,8986667,9013333,9040000,9066667,9093333,9120000,9146667,9173333,9200000,9226667,9253333,9280000,9306667,9333333,9360000,9386667,9413332],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":2}],\"startBeat\":-15,\"endBeat\":283,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":289,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/watchoutforthis/watchoutforthis_AudioPreview.ogg\"}",
-    "coachCount": 4,
-    "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
-    "customTypeNameId": 0,
-    "difficulty": 1,
-    "doubleScoringType": -1,
-    "jdmAttributes": [],
-    "lyricsColor": "FB006EFF",
-    "lyricsType": 0,
-    "mainCoach": -1,
-    "mapLength": 0,
-    "mapName": "WatchOutForThis",
-    "mode": 6,
-    "originalJDVersion": 2023,
-    "packages": {
-      "mapContent": "WatchOutForThis_mapContent"
-    },
-    "parentMapName": "WatchOutForThis",
-    "skuIds": ["jdcmos-ww-all"],
-    "songColors": {
-      "songColor_1A": "444444FF",
-      "songColor_1B": "111111FF",
-      "songColor_2A": "AAAAAAFF",
-      "songColor_2B": "777777FF"
-    },
-    "status": 3,
-    "sweatDifficulty": 1,
-    "tags": ["Main"],
-    "title": "Watch Out For This (Bumaye)",
-    "urls": {
-      "jmcs://jd-contents/WatchOutForThis/WatchOutForThis_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/WatchOutForThis_audiopreview.ogg"
-    },
-    "searchTags": [],
-    "searchTagsLocIds": [],
-    "serverChangelist": 0
+
   },
+  "Codename": {
+  "artist": "Lou Garcia",
+  "assets": {
+    "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/Codename_banner_bkg.png",
+    "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_coach_1.png",
+    "coverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_cover_generic.png",
+    "cover_1024ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_cover_generic.png",
+    "cover_smallImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_cover_generic.png",
+    "expandBkgImageUrl": "https://static.wikia.nocookie.net/justdance/images/6/65/Blameitalt_cover_albumbkg.png",
+    "expandCoachImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_cover_albumcoach.png",
+    "phoneCoach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_coach_1.png",
+    "phoneCoverImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_cover_generic.png",
+    "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SavageLove/SavageLove_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg"
+  },
+  "audioPreviewData": "",
+  "coachCount": 1,
+  "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+  "customTypeNameId": 0,
+  "difficulty": 1,
+  "doubleScoringType": -1,
+  "jdmAttributes": [],
+  "lyricsColor": "FF0000FF",
+  "lyricsType": 0,
+  "mainCoach": -1,
+  "mapLength": 0,
+  "mapName": "Codename",
+  "mode": 6,
+  "originalJDVersion": 2024,
+  "packages": {
+    "mapContent": "Codename_mapContent"
+  },
+  "parentMapName": "Codename",
+  "skuIds": ["jdcmos-ww-all"],
+  "songColors": {
+    "songColor_1A": "444444FF",
+    "songColor_1B": "111111FF",
+    "songColor_2A": "AAAAAAFF",
+    "songColor_2B": "777777FF"
+  },
+  "status": 3,
+  "sweatDifficulty": 1,
+  "tags": ["Main"],
+  "title": "SongName",
+  "urls": {
+    "jmcs://jd-contents/Codename/Codename_AudioPreview.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/Codename_audiopreview.ogg"
+  },
+  "searchTags": [],
+  "searchTagsLocIds": [],
+  "serverChangelist": 0
+},

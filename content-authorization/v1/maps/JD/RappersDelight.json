@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/RappersDelight/RappersDelight_ULTRA.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/RappersDelight_ULTRA.webm",
+    "jmcs://jd-contents/RappersDelight/RappersDelight_MID.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/RappersDelight_MID.webm",
+    "jmcs://jd-contents/RappersDelight/RappersDelight_LOW.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/RappersDelight_LOW.webm",
+    "jmcs://jd-contents/RappersDelight/RappersDelight_HIGH.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/RappersDelight_HIGH.webm",
+    "jmcs://jd-contents/RappersDelight/RappersDelight.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/RappersDelight.ogg"
+  }
+}
