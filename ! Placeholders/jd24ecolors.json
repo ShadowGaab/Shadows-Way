@@ -1,0 +1,42 @@
+{
+"CureForMe": {
+ "LocID": "Paper Version",
+ "LyricColor": "FF9919FF"
+},
+"CureForMeALT": {
+  "LocID": "",
+  "LyricColor": "CD28D5FF"
+},
+"Wasabi": {
+  "LocId": "",
+  "LyricColor": "F174E9FF"
+},
+"WasabiALT": {
+  "LocID": "Extreme Version",
+  "LyricColor": "48B9FFFF"
+},
+"IWannaDance": {
+  "LocID": "",
+  "LyricColor": "FF009EFF"
+},
+"Flowers": {
+  "LocID": "",
+  "LyricColor": "A154D7FF",
+},
+"FlowersALT": {
+  "LocID": "Fitness Version",
+  "LyricColor": "FFD539FF"
+},
+"CantTameHer": {
+  "LocID": "",
+  "LyricColor": "79E0E7FF"
+},
+"AQueda": {
+  "LocID": "",
+  "LyricColor": ""
+},
+"DESPECHA": {
+  "LocID": "",
+  "LyricColor": ""
+}
+}

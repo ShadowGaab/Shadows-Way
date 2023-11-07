@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_ULTRA.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/FunHouseDLC_ULTRA.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_MID.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/FunHouseDLC_MID.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_LOW.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/FunHouseDLC_LOW.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC_HIGH.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/FunHouseDLC_HIGH.webm",
+    "jmcs://jd-contents/FunHouseDLC/FunHouseDLC.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/FunHouseDLC.ogg"
+  }
+}

@@ -2636,7 +2636,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "WhatMakesYouBeautiful"
+                            "mapName": "MakesYouBeautiful"
                         }
                     ],
                     "actionList": "partyMap"
@@ -2646,7 +2646,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "WhatMakesYouBeautifulALT"
+                            "mapName": "MakesYouBeautifulALT"
                         }
                     ],
                     "actionList": "partyMap"
@@ -3613,7 +3613,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "WeCantStopBeta"
+                            "mapName": "WeCantStop"
                         }
                     ],
                     "actionList": "partyMap"
@@ -4310,7 +4310,7 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "WeCantStopDLCJD2015Version"
+                            "mapName": "WeCantStopDLC"
                         }
                     ],
                     "actionList": "partyMap"
@@ -8193,16 +8193,6 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "SavageLove"
-                        }
-                    ],
-                    "actionList": "partyMap"
-                }, {
-                    "__class": "Item",
-                    "isc": "grp_cover",
-                    "act": "ui_component_base",
-                    "components": [{
-                            "__class": "JD_CarouselContentComponent_Song",
                             "mapName": "Sorbet"
                         }
                     ],
@@ -8448,6 +8438,16 @@
                     ],
                     "actionList": "partyMap"
                 }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "SavageLove"
+                      }
+                  ],
+                  "actionList": "partyMap"
+              }, {
                     "__class": "Item",
                     "isc": "grp_cover",
                     "act": "ui_component_base",
@@ -10806,6 +10806,16 @@
                     ],
                     "actionList": "partyMap"
                 }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "BedtimeStoryCHN"
+                      }
+                  ],
+                  "actionList": "partyMap"
+              }, {
                     "__class": "Item",
                     "isc": "grp_cover",
                     "act": "ui_component_base",
@@ -10825,6 +10835,16 @@
                         }
                     ],
                     "actionList": "partyMap"
+              }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "JDCBuyBuyBuy"
+                      }
+                  ],
+                  "actionList": "partyMap"
                 }, {
                     "__class": "Item",
                     "isc": "grp_cover",
@@ -10866,6 +10886,16 @@
                     ],
                     "actionList": "partyMap"
                 }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "JDCCowboysBusy"
+                      }
+                  ],
+                  "actionList": "partyMap"
+              }, {
                     "__class": "Item",
                     "isc": "grp_cover",
                     "act": "ui_component_base",
@@ -10901,10 +10931,20 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "JDCGee"
+                            "mapName": "JDCDizzyEunuchs"
                         }
                     ],
                     "actionList": "partyMap"
+              }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "JDCGee"
+                      }
+                  ],
+                  "actionList": "partyMap"
                 }, {
                     "__class": "Item",
                     "isc": "grp_cover",
@@ -11126,6 +11166,16 @@
                     ],
                     "actionList": "partyMap"
                 }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "JDCSummerSweetie"
+                      }
+                  ],
+                  "actionList": "partyMap"
+              }, {
                     "__class": "Item",
                     "isc": "grp_cover",
                     "act": "ui_component_base",
@@ -11136,6 +11186,16 @@
                     ],
                     "actionList": "partyMap"
                 }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "JDCTheMoon"
+                      }
+                  ],
+                  "actionList": "partyMap"
+              }, {
                     "__class": "Item",
                     "isc": "grp_cover",
                     "act": "ui_component_base",
@@ -11176,6 +11236,16 @@
                     ],
                     "actionList": "partyMap"
                 }, {
+                  "__class": "Item",
+                  "isc": "grp_cover",
+                  "act": "ui_component_base",
+                  "components": [{
+                          "__class": "JD_CarouselContentComponent_Song",
+                          "mapName": "JDCYouthTrainingManual"
+                      }
+                  ],
+                  "actionList": "partyMap"
+              }, {
                     "__class": "Item",
                     "isc": "grp_shuffle",
                     "act": "ui_component_base",

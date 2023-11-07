@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_ULTRA.webm": "https://cdn.glitch.me/b9f98ca5-813a-4925-8e05-ece9ba0f1a5f/public/map/JustDanceHelper/base64_aHR0cHM6Ly9qZC1oZWxwZXIudnRyYW5kLnJ1/40890649683/JDCGhoul/JDCGhoul_ULTRA.webm/b2e74774e37e0b9299b92b4e023bc515.webm",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_MID.webm": "https://cdn.glitch.me/b9f98ca5-813a-4925-8e05-ece9ba0f1a5f/public/map/JustDanceHelper/base64_aHR0cHM6Ly9qZC1oZWxwZXIudnRyYW5kLnJ1/30966167806/JDCGhoul/JDCGhoul_MID.webm/5b74643322528ea2a063c243fe71e1f7.webm",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_LOW.webm": "https://cdn.glitch.global/b9f98ca5-813a-4925-8e05-ece9ba0f1a5f/public/map/JustDanceHelper/base64_aHR0cHM6Ly9qZC1oZWxwZXIudnRyYW5kLnJ1/78733332136/JDCGhoul/JDCGhoul_LOW.webm/d9b2dd47603e9616889cb065b0f26e99.webm",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_HIGH.webm": "https://cdn.glitch.me/b9f98ca5-813a-4925-8e05-ece9ba0f1a5f/public/map/JustDanceHelper/base64_aHR0cHM6Ly9qZC1oZWxwZXIudnRyYW5kLnJ1/39359452055/JDCGhoul/JDCGhoul_HIGH.webm/614fbdaba8b1b5634a2dc24b5f605ab4.webm",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul.ogg": "https://cdn.glitch.global/b9f98ca5-813a-4925-8e05-ece9ba0f1a5f/public/map/JustDanceHelper/base64_aHR0cHM6Ly9qZC1oZWxwZXIudnRyYW5kLnJ1/74640302430/JDCGhoul/JDCGhoul.ogg/7953ed2159ecc115c08410ead8b48810.ogg"
+  }
+}

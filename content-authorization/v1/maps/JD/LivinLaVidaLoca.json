@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_ULTRA.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/LivinLaVidaLoca_ULTRA.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_MID.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/LivinLaVidaLoca_MID.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_LOW.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/LivinLaVidaLoca_LOW.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca_HIGH.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/LivinLaVidaLoca_HIGH.webm",
+    "jmcs://jd-contents/LivinLaVidaLoca/LivinLaVidaLoca.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/LivinLaVidaLoca.ogg"
+  }
+}
