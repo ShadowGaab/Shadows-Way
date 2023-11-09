@@ -38,4 +38,6 @@ Dave | songcolors & some banners
 
 TricXK | assets
 
+JustRex | assets
+
 if ANY credits are missing, you know how to contact me.
