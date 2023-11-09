@@ -5561,12 +5561,12 @@
                                       "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/jdcpeiplay_main_scene_pc.zip?v=1699142330482",
                                       "version": 1         
                                       },
-                                      "MarciaBaila_mapContent": {
-                                        "md5": "592deeba700a1cdb0aed3d9da23c4418",
-                                        "storageType": 0,
-                                        "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/marciabaila_main_scene_pc.zip?v=1699299791302",
-                                        "version": 1      
-                                        },
+  "MarciaBaila_mapContent": {
+      "md5": "4dbe12b5b5fdabb8a1bc1a7f253753ca",
+      "storageType": 0,
+      "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/marciabaila_main_scene_pc.zip?v=1699477664078",
+      "version": 1
+  },
                                         "JDCGhoul_mapContent": {
                                           "md5": "c16aa55fea40a8799eb4064e8547d58d",
                                           "storageType": 0,
@@ -5583,6 +5583,24 @@
                                               "md5": "3fbb0b052f44b1b6291e215a73097901",
                                               "storageType": 0,
                                               "url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/uglybeautyalt_main_scene_pc.zip",
-                                              "version": 1
+                                              "version": 1            
+                                              },
+  "JDCCowboysBusy_mapContent": {
+      "md5": "8e29160daf0907c1ca035b4a1886549c",
+      "storageType": 0,
+      "url": "https://cdn.discordapp.com/attachments/1065820836000436284/1067325781962928168/jdccowboysbusy_main_scene_pc.zip",
+      "version": 1            
+                                                },
+                                                "LuhYaPapiDLC_mapContent": {
+                                                  "md5": "3bb66d6cbc641c5d3078b6e73fbc8dad",
+                                                  "storageType": 0,
+                                                  "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/luhyapapidlc_main_scene_pc.zip",
+                                                  "version": 1       
+                                                  },
+                                                  "TitiMePreguntoALT_mapContent": {
+                                                    "md5": "5890346235d9a5f065d30125f2e5c40b",
+                                                    "storageType": 0,
+                                                    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/titimepreguntoalt_main_scene_pc.zip",
+                                                    "version": 1 
   }
 }

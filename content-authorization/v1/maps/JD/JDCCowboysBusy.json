@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 564656,
+  "urls": {
+    "jmcs://jd-contents/JDCCowboysBusy/JDCCowboysBusy_ULTRA.webm": "https://cdn.glitch.me/344e8047-88b2-41cd-9c60-2574d72ace64/JDCCowboysBusy_ULTRA.webm?v=1674539290258",
+    "jmcs://jd-contents/JDCCowboysBusy/JDCCowboysBusy_MID.webm": "https://cdn.glitch.me/344e8047-88b2-41cd-9c60-2574d72ace64/JDCCowboysBusy_MID.webm?v=1674539299857",
+    "jmcs://jd-contents/JDCCowboysBusy/JDCCowboysBusy_LOW.webm": "https://cdn.glitch.me/344e8047-88b2-41cd-9c60-2574d72ace64/JDCCowboysBusy_LOW.webm?v=1674539292745",
+    "jmcs://jd-contents/JDCCowboysBusy/JDCCowboysBusy_HIGH.webm": "https://cdn.glitch.me/344e8047-88b2-41cd-9c60-2574d72ace64/JDCCowboysBusy_ULTRA.webm?v=1674539290258",
+    "jmcs://jd-contents/JDCCowboysBusy/JDCCowboysBusy.ogg": "https://cdn.glitch.global/578c48ac-5dbe-4491-b798-cdfd88a175e9/JDCCowboysBusy.ogg?v=1674272149777"
+  }
+}
