@@ -5601,6 +5601,30 @@
                                                     "md5": "5890346235d9a5f065d30125f2e5c40b",
                                                     "storageType": 0,
                                                     "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/titimepreguntoalt_main_scene_pc.zip",
-                                                    "version": 1 
+                                                    "version": 1           
+                                                    },
+                                                    "SorryALTB_mapContent": {
+                                                      "md5": "c7d19cd18b4c3902630bea73888d0060",
+                                                      "storageType": 0,
+                                                      "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/sorryaltb_main_scene_pc.zip?v=1699564750824",
+                                                      "version": 1             
+                                                      },
+                                                      "BAL2MU_mapContent": {
+                                                        "md5": "c4f58a75a69c5c54e051c583f8b8728c",
+                                                        "storageType": 0,
+                                                        "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/bal2mu_main_scene_pc.zip",
+                                                        "version": 1               
+                                                        },
+                                                        "BedtimeStoryCHN_mapContent": {
+                                                          "md5": "70efd2d4b6fdd9c7ddb7e763a535c3da",
+                                                          "storageType": 0,
+                                                          "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/bedtimestorychn_main_scene_pc.zip",
+                                                          "version": 1                 
+                                                          },
+                                                          "ABBAAsGoodAsNew_mapContent": {
+                                                            "md5": "8babd8693619bb48cf60c94edba33ec2",
+                                                            "storageType": 0,
+                                                            "url": "https://jd-s3.akamaized.net/public/map/ABBAAsGoodAsNew/pc/ABBAAsGoodAsNew_MAIN_SCENE_PC.zip/8babd8693619bb48cf60c94edba33ec2.zip",
+                                                            "version": 1  
   }
 }
