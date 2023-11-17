@@ -108,7 +108,7 @@
   "Codename": {
     "artist": "Artist",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/Placeholder_banner_bkg.jpg",
+      "banner_bkgImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/Codename_banner_bkg.png",
       "coach1ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_coach_1.png",
       "coach2ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_coach_2.png",
       "coach3ImageUrl": "https://cdn.glitch.com/49f27db2-5f8d-4262-a485-610da589cdbf/n2a_coach_3.png",
@@ -138,7 +138,7 @@
     "mapLength": 0,
     "mapName": "Codename",
     "mode": 6,
-    "originalJDVersion": 2016,
+    "originalJDVersion": 2023,
     "packages": {
       "mapContent": "Codename_mapContent"
     },

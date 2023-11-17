@@ -1,12 +1,12 @@
 {
-  "__class": "ContentAuthorizationEntry",
-  "duration": 300,
-  "changelist": 280634,
-  "urls": {
-    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_ULTRA.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TitiMePreguntoALT_ULTRA.webm",
-    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_MID.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TitiMePreguntoALT_MID.webm",
-    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_LOW.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TitiMePreguntoALT_LOW.webm",
-    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_HIGH.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TitiMePreguntoALT_HIGH.webm",
-    "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TitiMePreguntoALT.ogg"
-  }
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 564656,
+    "urls": {
+        "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_ULTRA.webm": "https://cdn.glitch.me/712481c0-1f5b-4d70-ad3d-88cd584e18eb/titimepreguntoalt_HIGH.webm",
+        "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_MID.webm": "https://cdn.glitch.me/712481c0-1f5b-4d70-ad3d-88cd584e18eb/titimepreguntoalt_MID.webm?v=1699992837252",
+        "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_LOW.webm": "https://cdn.glitch.me/712481c0-1f5b-4d70-ad3d-88cd584e18eb/titimepreguntoalt_LOW.webm?v=1699992807589",
+        "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT_HIGH.webm": "https://cdn.glitch.me/712481c0-1f5b-4d70-ad3d-88cd584e18eb/titimepreguntoalt_HIGH.webm?v=1699992799372",
+        "jmcs://jd-contents/TitiMePreguntoALT/TitiMePreguntoALT.ogg": "https://cdn.glitch.me/712481c0-1f5b-4d70-ad3d-88cd584e18eb/titimepreguntoalt.ogg?v=1699992906962"
+    }
 }
