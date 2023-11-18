@@ -81,7 +81,7 @@ var jdconnect = {
 
         // DO NOT MODIFY THIS LINE WITHOUT PERMISSION
         beta_uplayers: [
-            "cupcakkeLuv",
+            "ShadowGaab",
             "justdancingsam",
             "litenitee",
             "MeowMeowMeyo",
