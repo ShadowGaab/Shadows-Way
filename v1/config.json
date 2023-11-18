@@ -324,7 +324,7 @@
       },
       {
         "name": "spaces/entities",
-         "url": "http://{env}shadows-way.shadowgaab.repl.co/{version}/spaces/{spaceId}/entities",
+         "url": "http://{env}shadows-way-shadgaab.glitch.me/{version}/spaces/{spaceId}/entities",
         "version": 2
       },
       {
