@@ -699,7 +699,8 @@ app.get("/content-authorization/v1/maps/:map", function(request, response) {
       var path_JD2021 = "./content-authorization/v1/maps/JD2021/";
       var path_JD2022 = "./content-authorization/v1/maps/JD2022/";
       var path_JD2023 = "./content-authorization/v1/maps/JD2023/";
-	  var path_JDFAN = "./content-authorization/v1/maps/JDFAN/";
+      var path_JD2024 = "./content-authorization/v1/maps/JD2024/";
+	    var path_JDFAN = "./content-authorization/v1/maps/JDFAN/";
       var path_JDABBA = "./content-authorization/v1/maps/JDABBA/";
       var path_JDCHINA = "./content-authorization/v1/maps/JDCHINA/";
       var path_JDKIDS = "./content-authorization/v1/maps/JDKIDS/";
@@ -902,6 +903,19 @@ app.get("/content-authorization/v1/maps/:map", function(request, response) {
         });
       } else if (fs.existsSync(path_JD2023 + request.params.map + ".json")) {
         fs.readFile(path_JD2023 + request.params.map + ".json", function(
+          err,
+          data
+        ) {
+          if (err) throw err;
+          if (data) {
+            var strdata = JSON.parse(data),
+              pardata = JSON.stringify(strdata);
+            response.send(pardata);
+            addStats(request.params.map);
+          }
+        });
+      } else if (fs.existsSync(path_JD2024 + request.params.map + ".json")) {
+        fs.readFile(path_JD2024 + request.params.map + ".json", function(
           err,
           data
         ) {

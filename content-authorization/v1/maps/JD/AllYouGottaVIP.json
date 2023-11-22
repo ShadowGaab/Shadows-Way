@@ -1,0 +1,12 @@
+{
+	"__class": "ContentAuthorizationEntry",
+	"duration": 300,
+	"changelist": 441073,
+	"urls": {
+		"jmcs://jd-contents/AllYouGottaVIP/AllYouGottaVIP_ULTRA.webm": "https://cdn.glitch.com/6941ce61-8d50-48de-9c37-6aaf4df35656%2FAllYouGottaVIPULTRA.webm?v=1583419737943",
+		"jmcs://jd-contents/AllYouGottaVIP/AllYouGottaVIP_MID.webm": "https://cdn.glitch.com/6941ce61-8d50-48de-9c37-6aaf4df35656%2FAllYouGottaVIPMID.webm?v=1583419680833",
+		"jmcs://jd-contents/AllYouGottaVIP/AllYouGottaVIP_LOW.webm": "https://cdn.glitch.com/6941ce61-8d50-48de-9c37-6aaf4df35656%2FAllYouGottaVIPLOW.webm?v=1583419655236",
+		"jmcs://jd-contents/AllYouGottaVIP/AllYouGottaVIP_HIGH.webm": "https://cdn.glitch.com/6941ce61-8d50-48de-9c37-6aaf4df35656%2FAllYouGottaVIPHIGH.webm?v=1583419717952",
+		"jmcs://jd-contents/AllYouGottaVIP/AllYouGottaVIP.ogg": "https://cdn.glitch.com/6941ce61-8d50-48de-9c37-6aaf4df35656%2FAllYouGottaVIP.ogg?v=1583419645364"
+	}
+}
