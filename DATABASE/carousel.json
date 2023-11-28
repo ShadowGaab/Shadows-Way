@@ -34,7 +34,7 @@
                   "act": "ui_component_base",
                   "components": [{
                           "__class": "JD_CarouselContentComponent_Song",
-                          "mapName": "ManDown"
+                          "mapName": "Policeman"
                       }
                   ],
                   "actionList": "partyMap"
@@ -44,7 +44,7 @@
                   "act": "ui_component_base",
                   "components": [{
                           "__class": "JD_CarouselContentComponent_Song",
-                          "mapName": "BedtimeStoryCHN"
+                          "mapName": "Problem"
                       }
                   ],
                   "actionList": "partyMap"
@@ -54,7 +54,7 @@
                   "act": "ui_component_base",
                   "components": [{
                           "__class": "JD_CarouselContentComponent_Song",
-                          "mapName": "TaintedLove"
+                          "mapName": "Skibidi"
                       }
                   ],
                   "actionList": "partyMap"
@@ -64,7 +64,7 @@
                   "act": "ui_component_base",
                   "components": [{
                           "__class": "JD_CarouselContentComponent_Song",
-                          "mapName": "ThankUNext"
+                          "mapName": "BumBumTamTamALT"
                       }
                   ],
                   "actionList": "partyMap"
@@ -74,7 +74,7 @@
                   "act": "ui_component_base",
                   "components": [{
                           "__class": "JD_CarouselContentComponent_Song",
-                          "mapName": "YouShould"
+                          "mapName": "JaiHo"
                       }
                   ],
                   "actionList": "partyMap"
@@ -84,7 +84,7 @@
                   "act": "ui_component_base",
                   "components": [{
                           "__class": "JD_CarouselContentComponent_Song",
-                          "mapName": "CantTameHer"
+                          "mapName": "Monster"
                       }
                   ],
                   "actionList": "partyMap"
@@ -94,7 +94,7 @@
                   "act": "ui_component_base",
                   "components": [{
                           "__class": "JD_CarouselContentComponent_Song",
-                          "mapName": "AQueda"
+                          "mapName": "LetItGo"
                       }
                   ],
                   "actionList": "partyMap"

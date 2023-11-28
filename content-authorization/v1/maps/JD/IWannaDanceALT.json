@@ -3,10 +3,10 @@
   "duration": 300,
   "changelist": 280634,
   "urls": {
-    "jmcs://jd-contents/IWannaDanceALT/V_ULTRA.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/IWannaDanceALT_ULTRA.webm",
-    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_MID.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/IWannaDanceALT_MID.webm",
-    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_LOW.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/IWannaDanceALT_LOW.webm",
-    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_HIGH.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/IWannaDanceALT_HIGH.webm",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_ULTRA.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/IWannaDanceALT_ULTRA.webm?v=1700687022102",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_MID.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/IWannaDanceALT_MID.webm?v=1700686892475",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_LOW.webm": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/IWannaDanceALT_LOW.webm?v=1700686890028",
+    "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT_HIGH.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/IWannaDanceALT_HIGH.webm?v=1700687018231",
     "jmcs://jd-contents/IWannaDanceALT/IWannaDanceALT.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/IWannaDanceALT.ogg"
   }
 }

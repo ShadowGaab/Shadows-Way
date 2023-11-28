@@ -5237,6 +5237,12 @@
     "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/iwannadance_main_scene_pc.zip?v=1700084576258",
     "version": 1  
   },
+  "IWannaDanceALT_mapContent": {
+    "md5": "22caf31e6e3337cc73267368b27146f4",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/iwannadancealt_main_scene_pc.zip?v=1700685582399",
+    "version": 1       
+  },
   "MakeFriends_mapContent": {
     "md5": "faed3cd76be23e7346d19405cb1eb3e8",
     "storageType": 0,
@@ -5253,6 +5259,12 @@
    "md5": "d824894996fa21af7a143b730fa6f7c1",
    "storageType": 0,
     "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/dontcha_main_scene_pc.zip?v=1700080511225",
+    "version": 1  
+  },
+  "DontChaALT_mapContent": {
+   "md5": "f083485e8ce91dc11e0a63726d65ba6f",
+   "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/dontchaalt_main_scene_pc.zip",
     "version": 1  
   },
   "HowYouLikeThat_mapContent": {
@@ -5403,7 +5415,13 @@
     "md5": "aa15999abfec288bcc1bdaa40cf76c95",
     "storageType": 0,
     "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/titimepregunto_main_scene_pc.zip?v=1700167883937",
-    "version": 2           
+    "version": 2                
+  },
+  "TitiMePreguntoALT_mapContent": {
+    "md5": "95a2149cf9709fd1b6e9589b53263462",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/712481c0-1f5b-4d70-ad3d-88cd584e18eb/titimepreguntoalt_main_scene_pc.zip?v=1699993102716",
+    "version": 1       
   },
   "Seven_mapContent": {
     "md5": "ec71901ea756b3133b136a2a2e988572",
@@ -5452,6 +5470,12 @@
     "storageType": 0,
     "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/wonderfultime_main_scene_pc.zip?v=1700157821939",
     "version": 1       
+  },
+  "Origin_mapContent": {
+    "md5": "9a7bed98e3ef678051892f68e74db98b",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/origin_main_scene_pc.zip?v=1700688591151",
+    "version": 1
   },
   "LimaGolf1ALTDLC_mapContent": {
     "md5": "b970ff0265d2f357190f633b3b5bee03",
@@ -5625,12 +5649,6 @@
                                                             "md5": "8babd8693619bb48cf60c94edba33ec2",
                                                             "storageType": 0,
                                                             "url": "https://jd-s3.akamaized.net/public/map/ABBAAsGoodAsNew/pc/ABBAAsGoodAsNew_MAIN_SCENE_PC.zip/8babd8693619bb48cf60c94edba33ec2.zip",
-                                                            "version": 1         
-                                                            },
-                                                            "TitiMePreguntoALT_mapContent": {
-                                                              "md5": "95a2149cf9709fd1b6e9589b53263462",
-                                                              "storageType": 0,
-                                                              "url": "https://cdn.glitch.global/712481c0-1f5b-4d70-ad3d-88cd584e18eb/titimepreguntoalt_main_scene_pc.zip?v=1699993102716",
-                                                              "version": 1       
+                                                            "version": 1    
   }
 }
