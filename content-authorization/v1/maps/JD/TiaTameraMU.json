@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/TiaTameraMU/TiaTameraMU_ULTRA.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TiaTameraMU_ULTRA.webm",
+    "jmcs://jd-contents/TiaTameraMU/TiaTameraMU_MID.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TiaTameraMU_MID.webm",
+    "jmcs://jd-contents/TiaTameraMU/TiaTameraMU_LOW.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TiaTameraMU_LOW.webm",
+    "jmcs://jd-contents/TiaTameraMU/TiaTameraMU_HIGH.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TiaTameraMU_HIGH.webm",
+    "jmcs://jd-contents/TiaTameraMU/TiaTameraMU.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/TiaTameraMU.ogg"
+  }
+}

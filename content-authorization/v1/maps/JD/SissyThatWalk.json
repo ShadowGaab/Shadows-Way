@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/SissyThatWalk/SissyThatWalk_ULTRA.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SissyThatWalk_ULTRA.webm",
+    "jmcs://jd-contents/SissyThatWalk/SissyThatWalk_MID.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SissyThatWalk_MID.webm",
+    "jmcs://jd-contents/SissyThatWalk/SissyThatWalk_LOW.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SissyThatWalk_LOW.webm",
+    "jmcs://jd-contents/SissyThatWalk/SissyThatWalk_HIGH.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SissyThatWalk_HIGH.webm",
+    "jmcs://jd-contents/SissyThatWalk/SissyThatWalk.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SissyThatWalk.ogg"
+  }
+}

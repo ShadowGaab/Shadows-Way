@@ -5141,6 +5141,12 @@
     "url": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/alliwant_main_scene_pc.zip",
     "version": 1  
   },
+  "TitaniumALT_mapContent": {
+    "md5": "8853f5cdda03ac7aa7a32b223c938144",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/titaniumalt_main_scene_pc.zip",
+    "version": 1  
+  },
   "WhineUp_mapContent": {
     "md5": "628d8fda3b35ea87b4a931b112c9e2ce",
     "storageType": 0,
@@ -5477,6 +5483,18 @@
     "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/origin_main_scene_pc.zip?v=1700688591151",
     "version": 1
   },
+  "ZeroToHero_mapContent": {
+   "md5": "d561ee79a585a4a6ff2dd9095eeb6024",
+   "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/zerotohero_main_scene_pc.zip?v=1701824050742",
+    "version": 1
+  },
+  "AWholeNewWorld_mapContent": {
+   "md5": "8f583ad82e19fb5038d10625a729f42f",
+   "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/awholenewworld_main_scene_pc.zip",
+    "version": 1
+  },
   "LimaGolf1ALTDLC_mapContent": {
     "md5": "b970ff0265d2f357190f633b3b5bee03",
     "storageType": 0,
@@ -5550,16 +5568,15 @@
     "version": 1
   },
   "NoMountain_mapContent": {
-                              "md5": "9a3a94212aae1d413965913e295290cd",
-                              "storageType": 0,
-                              "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/nomountain_main_scene_pc.zip?v=1698863050602",
-                              "version": 1      
-                              },
-                              "LivinLaVidaLoca_mapContent": {
-                                "md5": "782030336cc82fb3e882afb0a063b9b4",
-                                "storageType": 0,
-                                "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/livinlavidaloca_main_scene_pc.zip",
-                                "version": 1       
+    "md5": "9a3a94212aae1d413965913e295290cd",
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/nomountain_main_scene_pc.zip?v=1698863050602",
+    "version": 1      
+  },
+  "LivinLaVidaLoca_mapContent": {
+    "md5": "782030336cc82fb3e882afb0a063b9b4",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/livinlavidaloca_main_scene_pc.zip",
+    "version": 1       
                               },
                               "MakesYouBeautiful_mapContent": {
                                 "md5": "fa3fc29ea5d112bb503b4b0cbdbd231d",
@@ -5649,6 +5666,84 @@
                                                             "md5": "8babd8693619bb48cf60c94edba33ec2",
                                                             "storageType": 0,
                                                             "url": "https://jd-s3.akamaized.net/public/map/ABBAAsGoodAsNew/pc/ABBAAsGoodAsNew_MAIN_SCENE_PC.zip/8babd8693619bb48cf60c94edba33ec2.zip",
-                                                            "version": 1    
+                                                            "version": 1       
+  },
+  "WannabeItzy_mapContent": {
+    "md5": "0b004ef3e89c85b148fec6e08b9eadd9",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/wannabeitzy_main_scene_pc.zip",
+    "version": 1
+  },
+  "DontRush_mapContent": {
+    "md5": "1b9d35e8a6427df1eabc280cefb02354",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/dontrush3_main_scene_pc.zip",
+    "version": 3
+  },
+  "GoodOnes_mapContent": {
+    "md5": "6c2cbbca6aa42e82870a0087f055f10b",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/goodones_main_scene_pc.zip",
+    "version": 1
+  },
+  "DiscoInferno_mapContent": {
+    "md5": "7c0217329b786fbdfdd97cd51e762115",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/discoinferno_main_scene_pc.zip",
+    "version": 1
+  },
+  "BringMeToLife_mapContent": {
+    "md5": "5f59233cbff44f390ca320d516d80ec9",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/bringmetolife_main_scene_pc.zip",
+    "version": 1
+  },
+  "SweetButPsycho_mapContent": {
+    "md5": "c2e29628682e40cec00968f594567dc4",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/sweetbutpsycho_main_scene_pc.zip",
+    "version": 1
+  },
+  "SissyThatWalk_mapContent": {
+    "md5": "34faa475d7c19f959fb2a4f1d3244cdd",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/sissythatwalk_main_scene_pc.zip",
+    "version": 1
+  },
+  "ThereforeIAm_mapContent": {
+    "md5": "cec96830becb2bde9e83067dbb3a41ec",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/thereforeiam_main_scene_pc.zip",
+    "version": 1
+  },
+  "LoveMeLand_mapContent": {
+    "md5": "2f62a100019367ba126c5e8031495eef",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/lovemeland_main_scene_pc.zip",
+    "version": 1
+  },
+  "RatherBe_mapContent": {
+    "md5": "b31c44f1c2d94659c2f96e2c192184da",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/ratherbe_main_scene_pc.zip",
+    "version": 1
+  },
+  "Encanto_mapContent": {
+    "md5": "969a653bd1a358495fe7253cc482de4c",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/encanto_main_scene_pc.zip",
+    "version": 1   
+  },
+  "LoveAgain_mapContent": {
+    "md5": "12b6d2fe348cfdcaa9c81f5a0f311c9e",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/loveagain_main_scene_pc.zip",
+    "version": 1   
+  },
+  "TiaTameraMU_mapContent": {
+    "md5": "12b6d2fe348cfdcaa9c81f5a0f311c9e",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/tiatameramu_main_scene_pc.zip",
+    "version": 1
   }
 }

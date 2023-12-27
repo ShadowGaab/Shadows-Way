@@ -13,7 +13,7 @@
     }
   },
   "JDVersion": {
-    "Override": { "1234": "Kids", "4884": "ABBA" }
+    "Override": { "1234": "Kids", "4884": "ABBA: You Can Dance" }
   },
   "Quest": {
     "minimumScore": { "value": 1000 },

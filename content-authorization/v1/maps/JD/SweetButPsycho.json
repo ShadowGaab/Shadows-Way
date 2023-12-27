@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/SweetButPsycho/SweetButPsycho_ULTRA.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SweetButPsycho_ULTRA.webm",
+    "jmcs://jd-contents/SweetButPsycho/SweetButPsycho_MID.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SweetButPsycho_MID.webm",
+    "jmcs://jd-contents/SweetButPsycho/SweetButPsycho_LOW.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SweetButPsycho_LOW.webm",
+    "jmcs://jd-contents/SweetButPsycho/SweetButPsycho_HIGH.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SweetButPsycho_HIGH.webm",
+    "jmcs://jd-contents/SweetButPsycho/SweetButPsycho.ogg": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/SweetButPsycho.ogg"
+  }
+}
