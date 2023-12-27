@@ -6940,6 +6940,22 @@
       "url": "https://static.wikia.nocookie.net/justdance/images/b/b6/More_p2_ava.png",
       "itemType": 0
     },
+    "1814": {
+      "JdNowVersion": 2023,
+      "UsedAsCoach_CoachId": 1,
+      "UsedAsCoach_MapName": "BringMeToLife",
+      "__class": "OnlineCustomizableItem",
+      "jdVersion": 2023,
+      "mojoPrice": 0,
+      "relativeQuestID": "",
+      "relativeSongName": "BringMeToLife",
+      "relativeWDFBossName": "",
+      "soundFamily": "AVTR_Common_Girl_Swag",
+      "status": 1,
+      "unlockType": 3,
+      "url": "https://static.wikia.nocookie.net/justdance/images/3/37/Bringmetolife_p1_ava.png",
+      "itemType": 0
+    },
     "1818": {
       "JdNowVersion": 2023,
       "UsedAsCoach_CoachId": 0,

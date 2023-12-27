@@ -4,15 +4,28 @@
     {
       "__class": "OnlineQuest",
       "assetUrls": {
-        "phoneImageURL": "https://cdn.discordapp.com/attachments/819742311071350786/821202783570100254/winter_phone.png",
-        "coverImageURL": "https://cdn.discordapp.com/attachments/819742311071350786/821201250355380234/Winter.png",
-        "logoImageURL": "https://cdn.discordapp.com/attachments/819742311071350786/821209286717472768/Winter_Logo.png",
-        "logoShadedImageURL": "https://cdn.discordapp.com/attachments/819742311071350786/821203394659352586/winter_esqueci.png"
+        "phoneImageURL": "",
+        "coverImageURL": "",
+        "logoImageURL": "",
+        "logoShadedImageURL": ""
       },
       "id": "10431",
       "locked": 0,
       "playlist": ["Toxic", "ToxicNext", "ToxicNextALT"],
-      "title": "The Toxic Ride" 
+      "title": "The Toxic Ride"
+    },
+    { 
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "",
+        "coverImageURL": "",
+        "logoImageURL": "",
+        "logoShadedImageURL": ""
+      },
+      "id": "10432",
+      "locked": 0,
+      "playlist": ["BabyMU", "TiaTameraMU", "MusaMU"],
+      "title": "Mashup Madness!"
     },
     {
       "__class": "OnlineQuest",
@@ -63,8 +76,8 @@
       },
       "id": "20241",
       "locked": 0,
-      "playlist": ["", "", ""],
-      "title": "Best Of: WIP!"
+      "playlist": ["ZeroToHero", "", ""],
+      "title": "Best Of: Disney Magical Time!"
     },
     {
       "__class": "OnlineQuest",

@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/WalkingOnSunshine/WalkingOnSunshine_ULTRA.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/WalkingOnSunshine_ULTRA.webm",
+    "jmcs://jd-contents/WalkingOnSunshine/WalkingOnSunshine_MID.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/WalkingOnSunshine_MID.webm",
+    "jmcs://jd-contents/WalkingOnSunshine/WalkingOnSunshine_LOW.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/WalkingOnSunshine_LOW.webm",
+    "jmcs://jd-contents/WalkingOnSunshine/WalkingOnSunshine_HIGH.webm": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/WalkingOnSunshine_HIGH.webm",
+    "jmcs://jd-contents/WalkingOnSunshine/WalkingOnSunshine.ogg": "https://cdn.glitch.me/42a33f87-44d1-4d40-aed3-69b1b6d8e910/WalkingOnSunshine.ogg"
+  }
+}

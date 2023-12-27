@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 280634,
+  "urls": {
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno_ULTRA.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DiscoInferno_ULTRA.webm",
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno_MID.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DiscoInferno_MID.webm",
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno_LOW.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DiscoInferno_LOW.webm",
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno_HIGH.webm": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DiscoInferno_HIGH.webm",
+    "jmcs://jd-contents/DiscoInferno/DiscoInferno.ogg": "https://cdn.glitch.com/42a33f87-44d1-4d40-aed3-69b1b6d8e910/DiscoInferno.ogg"
+  }
+}

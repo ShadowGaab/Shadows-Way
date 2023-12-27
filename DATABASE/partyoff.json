@@ -11,7 +11,7 @@
             "__class": "JD_CarouselMapRequest",
             "actionListName": "partyMap",
             "actionListNameUpsell": "_None",
-            "includedTags": ["main_23"],
+            "includedTags": ["Main_23"],
             "offline": true,
             "order": "title",
             "originalJDVersion": 2017,
@@ -24,7 +24,7 @@
     },
     {
       "__class": "Category",
-      "title": "Just Dance Iconic Hits",
+      "title": "Just Dance 2022",
       "act": "ui_carousel",
       "isc": "grp_row",
       "items": [
@@ -34,28 +34,7 @@
             "__class": "JD_CarouselMapRequest",
             "actionListName": "partyMap",
             "actionListNameUpsell": "_None",
-            "includedTags": ["Main_20"],
-            "offline": true,
-            "order": "title",
-            "originalJDVersion": 2017,
-            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
-          }
-        }
-      ]
-    },
-    {
-      "__class": "Category",
-      "title": "Just Dance Epic",
-      "act": "ui_carousel",
-      "isc": "grp_row",
-      "items": [
-        {
-          "__class": "Item",
-          "offlineRequest": {
-            "__class": "JD_CarouselMapRequest",
-            "actionListName": "partyMap",
-            "actionListNameUpsell": "_None",
-            "includedTags": ["Epic"],
+            "includedTags": ["Main_22"],
             "offline": true,
             "order": "title",
             "originalJDVersion": 2017,
