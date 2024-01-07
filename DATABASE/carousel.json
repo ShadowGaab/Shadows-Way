@@ -10912,16 +10912,6 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "MakeFriends"
-                        }
-                    ],
-                    "actionList": "partyMap"
-                }, {
-                    "__class": "Item",
-                    "isc": "grp_cover",
-                    "act": "ui_component_base",
-                    "components": [{
-                            "__class": "JD_CarouselContentComponent_Song",
                             "mapName": "IWannaDance"
                         }
                     ],
@@ -10942,6 +10932,26 @@
                     "act": "ui_component_base",
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "MakeFriends"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "PartyVIP"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
                             "mapName": "ImGood"
                         }
                     ],
@@ -10953,16 +10963,6 @@
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
                             "mapName": "ImGoodALT"
-                        }
-                    ],
-                    "actionList": "partyMap"
-                }, {
-                    "__class": "Item",
-                    "isc": "grp_cover",
-                    "act": "ui_component_base",
-                    "components": [{
-                            "__class": "JD_CarouselContentComponent_Song",
-                            "mapName": "PartyVIP"
                         }
                     ],
                     "actionList": "partyMap"
@@ -13437,6 +13437,16 @@
                     "components": [{
                             "__class": "JD_CarouselContentComponent_Song",
                             "mapName": "ItsyBitsyMU"
+                        }
+                    ],
+                    "actionList": "partyMap"
+                }, {
+                    "__class": "Item",
+                    "isc": "grp_cover",
+                    "act": "ui_component_base",
+                    "components": [{
+                            "__class": "JD_CarouselContentComponent_Song",
+                            "mapName": "ITGIRLMU"
                         }
                     ],
                     "actionList": "partyMap"

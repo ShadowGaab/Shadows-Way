@@ -5741,9 +5741,27 @@
     "version": 1   
   },
   "TiaTameraMU_mapContent": {
-    "md5": "12b6d2fe348cfdcaa9c81f5a0f311c9e",
+    "md5": "824bb0e9fe571687ca224d9e6b2bbc72",
     "storageType": 0,
-    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/tiatameramu_main_scene_pc.zip",
+    "url": "hhttps://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/tiatameramu1_main_scene_pc.zip",
     "version": 1
+  },
+  "MusaMU_mapContent": {
+    "md5": "ee6484d9021da0ca69d0540a02b0f1ef",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/musamu_main_scene_pc.zip",
+    "version": 1      
+  },
+  "ITGIRLMU_mapContent": {
+    "md5": "49a2f8ee900366f62c4e57472adb0360",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/itgirlmu_main_scene_pc.zip",
+    "version": 1
+  },
+  "SweetDreams_mapContent": {
+    "md5": "6d7684303c62d08899979902e24e88b0",
+    "storageType": 0,
+    "url": "https://cdn.glitch.global/42a33f87-44d1-4d40-aed3-69b1b6d8e910/sweetdreams_main_scene_pc.zip",
+    "version": 1      
   }
 }
