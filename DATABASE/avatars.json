@@ -253,7 +253,26 @@
     },
     {
       "__class": "Category",
-      "title": "Just Dance 2023",
+      "title": "Just Dance 2022",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselCustomizableItemRequest",
+            "itemType": 0,
+            "jdVersion": 2022,
+            "lockType": 3,
+            "sortBy": 0,
+            "uuid": "mega-mix"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2023 Edition",
       "act": "ui_carousel",
       "isc": "grp_row",
       "items": [
@@ -263,6 +282,25 @@
             "__class": "JD_CarouselCustomizableItemRequest",
             "itemType": 0,
             "jdVersion": 2023,
+            "lockType": 3,
+            "sortBy": 0,
+            "uuid": "mega-mix"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2024 Edition",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselCustomizableItemRequest",
+            "itemType": 0,
+            "jdVersion": 2024,
             "lockType": 3,
             "sortBy": 0,
             "uuid": "mega-mix"
